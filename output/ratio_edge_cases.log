@@ -1,0 +1,1233 @@
+ratio edge case log
+===================
+company_id=ABB year=2012-12 broad_sector=Industrials computed_roce=30.33 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2014-03 broad_sector=Industrials computed_roce=32.96 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2014-03 broad_sector=Industrials computed_roce=32.96 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2015-03 broad_sector=Industrials computed_roce=32.77 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2015-03 broad_sector=Industrials computed_roce=32.77 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2016-03 broad_sector=Industrials computed_roce=30.19 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2016-03 broad_sector=Industrials computed_roce=30.19 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2017-03 broad_sector=Industrials computed_roce=28.37 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2017-03 broad_sector=Industrials computed_roce=28.37 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2018-03 broad_sector=Industrials computed_roce=30.72 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2018-03 broad_sector=Industrials computed_roce=30.72 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2019-03 broad_sector=Industrials computed_roce=29.88 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2019-03 broad_sector=Industrials computed_roce=29.88 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2020-03 broad_sector=Industrials computed_roce=23.36 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2020-03 broad_sector=Industrials computed_roce=23.36 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2021-03 broad_sector=Industrials computed_roce=28.91 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2021-03 broad_sector=Industrials computed_roce=28.91 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2022-03 broad_sector=Industrials computed_roce=32.22 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2022-03 broad_sector=Industrials computed_roce=32.22 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2023-03 broad_sector=Industrials computed_roce=33.55 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2023-03 broad_sector=Industrials computed_roce=33.55 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2024-03 broad_sector=Industrials computed_roce=36.34 source_roce=46.0 category=formula discrepancy
+company_id=ABB year=2024-03 broad_sector=Industrials computed_roce=36.34 source_roce=46.0 category=formula discrepancy
+company_id=ADANIENSOL year=2014-03 broad_sector=Energy computed_roce=0.0 source_roce=9.0 category=formula discrepancy
+company_id=ADANIENSOL year=2015-03 broad_sector=Energy computed_roce=-857.14 source_roce=9.0 category=formula discrepancy
+company_id=ADANIENSOL year=2016-03 broad_sector=Energy computed_roce=-206.0 source_roce=9.0 category=formula discrepancy
+company_id=ADANIENSOL year=2017-03 broad_sector=Energy computed_roce=-198.86 source_roce=9.0 category=formula discrepancy
+company_id=ADANIENSOL year=2018-03 broad_sector=Energy computed_roce=-114.56 source_roce=9.0 category=formula discrepancy
+company_id=ADANIENSOL year=2019-03 broad_sector=Energy computed_roce=-194.5 source_roce=9.0 category=formula discrepancy
+company_id=ADANIENSOL year=2020-03 broad_sector=Energy computed_roce=-206.64 source_roce=9.0 category=formula discrepancy
+company_id=ADANIENSOL year=2021-03 broad_sector=Energy computed_roce=-225.85 source_roce=9.0 category=formula discrepancy
+company_id=ADANIENSOL year=2022-03 broad_sector=Energy computed_roce=-226.6 source_roce=9.0 category=formula discrepancy
+company_id=ADANIENSOL year=2023-03 broad_sector=Energy computed_roce=-222.74 source_roce=9.0 category=formula discrepancy
+company_id=ADANIENSOL year=2024-03 broad_sector=Energy computed_opm=34.39 source_opm=30.0 category=formula discrepancy
+company_id=ADANIENSOL year=2024-03 broad_sector=Energy computed_roce=-217.51 source_roce=9.0 category=formula discrepancy
+company_id=ADANIENT year=2013-03 broad_sector=Industrials computed_roce=-267.2 source_roce=11.6 category=formula discrepancy
+company_id=ADANIENT year=2014-03 broad_sector=Industrials computed_roce=-232.01 source_roce=11.6 category=formula discrepancy
+company_id=ADANIENT year=2015-03 broad_sector=Industrials computed_roce=-243.15 source_roce=11.6 category=formula discrepancy
+company_id=ADANIENT year=2016-03 broad_sector=Industrials computed_roce=-127.7 source_roce=11.6 category=formula discrepancy
+company_id=ADANIENT year=2017-03 broad_sector=Industrials computed_roce=-131.09 source_roce=11.6 category=formula discrepancy
+company_id=ADANIENT year=2018-03 broad_sector=Industrials computed_roce=-99.02 source_roce=11.6 category=formula discrepancy
+company_id=ADANIENT year=2019-03 broad_sector=Industrials computed_roce=-61.23 source_roce=11.6 category=formula discrepancy
+company_id=ADANIENT year=2020-03 broad_sector=Industrials computed_roce=-58.13 source_roce=11.6 category=formula discrepancy
+company_id=ADANIENT year=2021-03 broad_sector=Industrials computed_roce=-77.54 source_roce=11.6 category=formula discrepancy
+company_id=ADANIENT year=2022-03 broad_sector=Industrials computed_roce=-161.2 source_roce=11.6 category=formula discrepancy
+company_id=ADANIENT year=2023-03 broad_sector=Industrials computed_roce=-125.07 source_roce=11.6 category=formula discrepancy
+company_id=ADANIENT year=2024-03 broad_sector=Industrials computed_roce=-128.05 source_roce=11.6 category=formula discrepancy
+company_id=ADANIGREEN year=2017-03 broad_sector=Energy computed_roce=-256.77 source_roce=96.5 category=formula discrepancy
+company_id=ADANIGREEN year=2018-03 broad_sector=Energy computed_roce=-478.82 source_roce=96.5 category=formula discrepancy
+company_id=ADANIGREEN year=2019-03 broad_sector=Energy computed_roce=-321.07 source_roce=96.5 category=formula discrepancy
+company_id=ADANIGREEN year=2020-03 broad_sector=Energy computed_roce=-487.68 source_roce=96.5 category=formula discrepancy
+company_id=ADANIGREEN year=2021-03 broad_sector=Energy computed_roce=-817.87 source_roce=96.5 category=formula discrepancy
+company_id=ADANIGREEN year=2022-03 broad_sector=Energy computed_roce=-1424.2 source_roce=96.5 category=formula discrepancy
+company_id=ADANIGREEN year=2023-03 broad_sector=Energy computed_roce=-572.44 source_roce=96.5 category=formula discrepancy
+company_id=ADANIGREEN year=2024-03 broad_sector=Energy computed_roce=-490.24 source_roce=96.5 category=formula discrepancy
+company_id=ADANIPORTS year=2013-03 broad_sector=Industrials computed_roce=-135.53 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2013-03 broad_sector=Industrials computed_roce=-135.53 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2014-03 broad_sector=Industrials computed_roce=-106.86 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2014-03 broad_sector=Industrials computed_roce=-106.86 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2015-03 broad_sector=Industrials computed_roce=-118.81 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2015-03 broad_sector=Industrials computed_roce=-118.81 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2016-03 broad_sector=Industrials computed_roce=-121.95 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2016-03 broad_sector=Industrials computed_roce=-121.95 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2017-03 broad_sector=Industrials computed_roce=-89.89 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2017-03 broad_sector=Industrials computed_roce=-89.89 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2018-03 broad_sector=Industrials computed_roce=-68.87 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2018-03 broad_sector=Industrials computed_roce=-68.87 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2019-03 broad_sector=Industrials computed_roce=-82.02 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2019-03 broad_sector=Industrials computed_roce=-82.02 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2020-03 broad_sector=Industrials computed_roce=-89.53 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2020-03 broad_sector=Industrials computed_roce=-89.53 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2021-03 broad_sector=Industrials computed_roce=-83.47 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2021-03 broad_sector=Industrials computed_roce=-83.47 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2022-03 broad_sector=Industrials computed_roce=-85.5 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2022-03 broad_sector=Industrials computed_roce=-85.5 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2023-03 broad_sector=Industrials computed_roce=-87.04 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2023-03 broad_sector=Industrials computed_roce=-87.04 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2024-03 broad_sector=Industrials computed_roce=-59.79 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPORTS year=2024-03 broad_sector=Industrials computed_roce=-59.79 source_roce=12.9 category=formula discrepancy
+company_id=ADANIPOWER year=2013-03 broad_sector=Energy computed_roce=-731.42 source_roce=32.2 category=formula discrepancy
+company_id=ADANIPOWER year=2014-03 broad_sector=Energy computed_roce=-466.47 source_roce=32.2 category=formula discrepancy
+company_id=ADANIPOWER year=2015-03 broad_sector=Energy computed_roce=-531.14 source_roce=32.2 category=formula discrepancy
+company_id=ADANIPOWER year=2016-03 broad_sector=Energy computed_roce=-433.46 source_roce=32.2 category=formula discrepancy
+company_id=ADANIPOWER year=2017-03 broad_sector=Energy computed_roce=-819.89 source_roce=32.2 category=formula discrepancy
+company_id=ADANIPOWER year=2018-03 broad_sector=Energy computed_roce=-1321.04 source_roce=32.2 category=formula discrepancy
+company_id=ADANIPOWER year=2019-03 broad_sector=Energy computed_roce=-401.39 source_roce=32.2 category=formula discrepancy
+company_id=ADANIPOWER year=2020-03 broad_sector=Energy computed_roce=-521.4 source_roce=32.2 category=formula discrepancy
+company_id=ADANIPOWER year=2021-03 broad_sector=Energy computed_roce=-268.65 source_roce=32.2 category=formula discrepancy
+company_id=ADANIPOWER year=2022-03 broad_sector=Energy computed_roce=-181.99 source_roce=32.2 category=formula discrepancy
+company_id=ADANIPOWER year=2023-03 broad_sector=Energy computed_roce=-97.21 source_roce=32.2 category=formula discrepancy
+company_id=ADANIPOWER year=2024-03 broad_sector=Energy computed_roce=-34.81 source_roce=32.2 category=formula discrepancy
+company_id=AMBUJACEM year=2012-12 broad_sector=Materials computed_roce=25.76 source_roce=12.8 category=formula discrepancy
+company_id=AMBUJACEM year=2014-12 broad_sector=Materials computed_roce=17.95 source_roce=12.8 category=formula discrepancy
+company_id=AMBUJACEM year=2019-12 broad_sector=Materials computed_roce=18.06 source_roce=12.8 category=formula discrepancy
+company_id=AMBUJACEM year=2020-12 broad_sector=Materials computed_roce=18.96 source_roce=12.8 category=formula discrepancy
+company_id=AMBUJACEM year=2021-12 broad_sector=Materials computed_roce=21.63 source_roce=12.8 category=formula discrepancy
+company_id=APOLLOHOSP year=2013-03 broad_sector=Healthcare computed_roce=-20.8 source_roce=17.2 category=formula discrepancy
+company_id=APOLLOHOSP year=2014-03 broad_sector=Healthcare computed_roce=-21.24 source_roce=17.2 category=formula discrepancy
+company_id=APOLLOHOSP year=2015-03 broad_sector=Healthcare computed_roce=-37.09 source_roce=17.2 category=formula discrepancy
+company_id=APOLLOHOSP year=2016-03 broad_sector=Healthcare computed_roce=-59.79 source_roce=17.2 category=formula discrepancy
+company_id=APOLLOHOSP year=2017-03 broad_sector=Healthcare computed_roce=-65.9 source_roce=17.2 category=formula discrepancy
+company_id=APOLLOHOSP year=2018-03 broad_sector=Healthcare computed_roce=-72.72 source_roce=17.2 category=formula discrepancy
+company_id=APOLLOHOSP year=2019-03 broad_sector=Healthcare computed_roce=-69.79 source_roce=17.2 category=formula discrepancy
+company_id=APOLLOHOSP year=2020-03 broad_sector=Healthcare computed_roce=-50.63 source_roce=17.2 category=formula discrepancy
+company_id=APOLLOHOSP year=2021-03 broad_sector=Healthcare computed_roce=-58.35 source_roce=17.2 category=formula discrepancy
+company_id=APOLLOHOSP year=2022-03 broad_sector=Healthcare computed_roce=-30.19 source_roce=17.2 category=formula discrepancy
+company_id=APOLLOHOSP year=2023-03 broad_sector=Healthcare computed_roce=-33.27 source_roce=17.2 category=formula discrepancy
+company_id=APOLLOHOSP year=2024-03 broad_sector=Healthcare computed_roce=-38.55 source_roce=17.2 category=formula discrepancy
+company_id=ASIANPAINT year=2015-03 broad_sector=Materials computed_roce=36.44 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2015-03 broad_sector=Materials computed_roce=36.44 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2016-03 broad_sector=Materials computed_roce=35.32 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2016-03 broad_sector=Materials computed_roce=35.32 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2017-03 broad_sector=Materials computed_roce=30.66 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2017-03 broad_sector=Materials computed_roce=30.66 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2018-03 broad_sector=Materials computed_roce=30.46 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2018-03 broad_sector=Materials computed_roce=30.46 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2019-03 broad_sector=Materials computed_roce=24.22 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2019-03 broad_sector=Materials computed_roce=24.22 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2020-03 broad_sector=Materials computed_roce=27.86 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2020-03 broad_sector=Materials computed_roce=27.86 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2021-03 broad_sector=Materials computed_roce=27.68 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2021-03 broad_sector=Materials computed_roce=27.68 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2022-03 broad_sector=Materials computed_roce=21.99 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2022-03 broad_sector=Materials computed_roce=21.99 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2023-03 broad_sector=Materials computed_roce=25.68 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2023-03 broad_sector=Materials computed_roce=25.68 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2024-03 broad_sector=Materials computed_roce=26.1 source_roce=41.75 category=formula discrepancy
+company_id=ASIANPAINT year=2024-03 broad_sector=Materials computed_roce=26.1 source_roce=41.75 category=formula discrepancy
+company_id=ATGL year=2018-03 broad_sector=Energy computed_roce=-90.9 source_roce=21.2 category=formula discrepancy
+company_id=ATGL year=2019-03 broad_sector=Energy computed_roce=5.22 source_roce=21.2 category=formula discrepancy
+company_id=ATGL year=2020-03 broad_sector=Energy computed_roce=10.97 source_roce=21.2 category=formula discrepancy
+company_id=ATGL year=2021-03 broad_sector=Energy computed_roce=8.76 source_roce=21.2 category=formula discrepancy
+company_id=ATGL year=2022-03 broad_sector=Energy computed_roce=-10.48 source_roce=21.2 category=formula discrepancy
+company_id=ATGL year=2023-03 broad_sector=Energy computed_roce=-18.07 source_roce=21.2 category=formula discrepancy
+company_id=ATGL year=2024-03 broad_sector=Energy computed_roce=-12.12 source_roce=21.2 category=formula discrepancy
+company_id=AXISBANK year=2013-03 broad_sector=Financials computed_opm=30.58 source_opm=1353.0 category=formula discrepancy
+company_id=AXISBANK year=2013-03 broad_sector=Financials computed_roce=-859.27 source_roce=7.06 category=formula discrepancy
+company_id=AXISBANK year=2014-03 broad_sector=Financials computed_opm=31.47 source_opm=2307.0 category=formula discrepancy
+company_id=AXISBANK year=2014-03 broad_sector=Financials computed_roce=-834.97 source_roce=7.06 category=formula discrepancy
+company_id=AXISBANK year=2015-03 broad_sector=Financials computed_opm=31.36 source_opm=3097.0 category=formula discrepancy
+company_id=AXISBANK year=2015-03 broad_sector=Financials computed_roce=-872.03 source_roce=7.06 category=formula discrepancy
+company_id=AXISBANK year=2016-03 broad_sector=Financials computed_opm=32.61 source_opm=3466.0 category=formula discrepancy
+company_id=AXISBANK year=2016-03 broad_sector=Financials computed_roce=-849.55 source_roce=7.06 category=formula discrepancy
+company_id=AXISBANK year=2017-03 broad_sector=Financials computed_opm=53.45 source_opm=-5715.0 category=formula discrepancy
+company_id=AXISBANK year=2017-03 broad_sector=Financials computed_roce=-885.28 source_roce=7.06 category=formula discrepancy
+company_id=AXISBANK year=2018-03 broad_sector=Financials computed_opm=63.12 source_opm=-10277.0 category=formula discrepancy
+company_id=AXISBANK year=2018-03 broad_sector=Financials computed_roce=-899.31 source_roce=7.06 category=formula discrepancy
+company_id=AXISBANK year=2019-03 broad_sector=Financials computed_opm=49.39 source_opm=-5447.0 category=formula discrepancy
+company_id=AXISBANK year=2019-03 broad_sector=Financials computed_roce=-999.59 source_roce=7.06 category=formula discrepancy
+company_id=AXISBANK year=2020-03 broad_sector=Financials computed_opm=55.98 source_opm=-9859.0 category=formula discrepancy
+company_id=AXISBANK year=2020-03 broad_sector=Financials computed_roce=-875.04 source_roce=7.06 category=formula discrepancy
+company_id=AXISBANK year=2021-03 broad_sector=Financials computed_opm=50.12 source_opm=-2510.0 category=formula discrepancy
+company_id=AXISBANK year=2021-03 broad_sector=Financials computed_roce=-783.23 source_roce=7.06 category=formula discrepancy
+company_id=AXISBANK year=2022-03 broad_sector=Financials computed_opm=44.47 source_opm=3170.0 category=formula discrepancy
+company_id=AXISBANK year=2022-03 broad_sector=Financials computed_roce=-830.88 source_roce=7.06 category=formula discrepancy
+company_id=AXISBANK year=2023-03 broad_sector=Financials computed_opm=34.16 source_opm=13857.0 category=formula discrepancy
+company_id=AXISBANK year=2023-03 broad_sector=Financials computed_roce=-785.97 source_roce=7.06 category=formula discrepancy
+company_id=AXISBANK year=2024-03 broad_sector=Financials computed_opm=34.69 source_opm=11952.0 category=formula discrepancy
+company_id=AXISBANK year=2024-03 broad_sector=Financials computed_roce=-794.0 source_roce=7.06 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2013-03 broad_sector=Consumer Discretionary computed_roce=43.0 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2013-03 broad_sector=Consumer Discretionary computed_roce=43.0 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2014-03 broad_sector=Consumer Discretionary computed_roce=39.66 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2014-03 broad_sector=Consumer Discretionary computed_roce=39.66 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2017-03 broad_sector=Consumer Discretionary computed_roce=23.72 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2017-03 broad_sector=Consumer Discretionary computed_roce=23.72 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2018-03 broad_sector=Consumer Discretionary computed_roce=22.78 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2018-03 broad_sector=Consumer Discretionary computed_roce=22.78 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2019-03 broad_sector=Consumer Discretionary computed_roce=21.59 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2019-03 broad_sector=Consumer Discretionary computed_roce=21.59 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2020-03 broad_sector=Consumer Discretionary computed_roce=22.75 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2020-03 broad_sector=Consumer Discretionary computed_roce=22.75 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2021-03 broad_sector=Consumer Discretionary computed_roce=17.5 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2021-03 broad_sector=Consumer Discretionary computed_roce=17.5 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2022-03 broad_sector=Consumer Discretionary computed_roce=17.05 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2022-03 broad_sector=Consumer Discretionary computed_roce=17.05 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2023-03 broad_sector=Consumer Discretionary computed_roce=21.39 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2023-03 broad_sector=Consumer Discretionary computed_roce=21.39 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2024-03 broad_sector=Consumer Discretionary computed_roce=23.37 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJ-AUTO year=2024-03 broad_sector=Consumer Discretionary computed_roce=23.37 source_roce=33.5 category=formula discrepancy
+company_id=BAJAJFINSV year=2013-03 broad_sector=Financials computed_roce=-115.8 source_roce=21.14 category=formula discrepancy
+company_id=BAJAJFINSV year=2014-03 broad_sector=Financials computed_roce=-160.72 source_roce=21.14 category=formula discrepancy
+company_id=BAJAJFINSV year=2015-03 broad_sector=Financials computed_roce=-186.94 source_roce=21.14 category=formula discrepancy
+company_id=BAJAJFINSV year=2016-03 broad_sector=Financials computed_roce=-214.71 source_roce=21.14 category=formula discrepancy
+company_id=BAJAJFINSV year=2017-03 broad_sector=Financials computed_roce=-243.89 source_roce=21.14 category=formula discrepancy
+company_id=BAJAJFINSV year=2018-03 broad_sector=Financials computed_roce=-265.98 source_roce=21.14 category=formula discrepancy
+company_id=BAJAJFINSV year=2019-03 broad_sector=Financials computed_roce=-353.49 source_roce=21.14 category=formula discrepancy
+company_id=BAJAJFINSV year=2020-03 broad_sector=Financials computed_roce=-343.06 source_roce=21.14 category=formula discrepancy
+company_id=BAJAJFINSV year=2021-03 broad_sector=Financials computed_roce=-299.55 source_roce=21.14 category=formula discrepancy
+company_id=BAJAJFINSV year=2022-03 broad_sector=Financials computed_roce=-342.38 source_roce=21.14 category=formula discrepancy
+company_id=BAJAJFINSV year=2023-03 broad_sector=Financials computed_roce=-387.38 source_roce=21.14 category=formula discrepancy
+company_id=BAJAJFINSV year=2024-03 broad_sector=Financials computed_roce=-405.12 source_roce=21.14 category=formula discrepancy
+company_id=BAJAJHLDNG year=2013-03 broad_sector=Financials computed_roce=3.11 source_roce=13.1 category=formula discrepancy
+company_id=BAJAJHLDNG year=2014-03 broad_sector=Financials computed_roce=3.33 source_roce=13.1 category=formula discrepancy
+company_id=BAJAJHLDNG year=2015-03 broad_sector=Financials computed_roce=3.61 source_roce=13.1 category=formula discrepancy
+company_id=BAJAJHLDNG year=2016-03 broad_sector=Financials computed_roce=2.8 source_roce=13.1 category=formula discrepancy
+company_id=BAJAJHLDNG year=2017-03 broad_sector=Financials computed_roce=3.52 source_roce=13.1 category=formula discrepancy
+company_id=BAJAJHLDNG year=2018-03 broad_sector=Financials computed_roce=1.41 source_roce=13.1 category=formula discrepancy
+company_id=BAJAJHLDNG year=2019-03 broad_sector=Financials computed_roce=1.29 source_roce=13.1 category=formula discrepancy
+company_id=BAJAJHLDNG year=2020-03 broad_sector=Financials computed_roce=0.48 source_roce=13.1 category=formula discrepancy
+company_id=BAJAJHLDNG year=2021-03 broad_sector=Financials computed_roce=0.58 source_roce=13.1 category=formula discrepancy
+company_id=BAJAJHLDNG year=2022-03 broad_sector=Financials computed_roce=0.59 source_roce=13.1 category=formula discrepancy
+company_id=BAJAJHLDNG year=2023-03 broad_sector=Financials computed_roce=0.65 source_roce=13.1 category=formula discrepancy
+company_id=BAJAJHLDNG year=2024-03 broad_sector=Financials computed_roce=2.76 source_roce=13.1 category=formula discrepancy
+company_id=BAJFINANCE year=2015-03 broad_sector=Financials computed_opm=32.49 source_opm=1367.0 category=formula discrepancy
+company_id=BAJFINANCE year=2015-03 broad_sector=Financials computed_roce=-514.95 source_roce=11.9 category=formula discrepancy
+company_id=BAJFINANCE year=2016-03 broad_sector=Financials computed_opm=32.25 source_opm=1986.0 category=formula discrepancy
+company_id=BAJFINANCE year=2016-03 broad_sector=Financials computed_roce=-463.33 source_roce=11.9 category=formula discrepancy
+company_id=BAJFINANCE year=2017-03 broad_sector=Financials computed_opm=32.6 source_opm=2867.0 category=formula discrepancy
+company_id=BAJFINANCE year=2017-03 broad_sector=Financials computed_roce=-475.65 source_roce=11.9 category=formula discrepancy
+company_id=BAJFINANCE year=2018-03 broad_sector=Financials computed_opm=32.28 source_opm=3935.0 category=formula discrepancy
+company_id=BAJFINANCE year=2018-03 broad_sector=Financials computed_roce=-391.49 source_roce=11.9 category=formula discrepancy
+company_id=BAJFINANCE year=2019-03 broad_sector=Financials computed_opm=29.5 source_opm=6310.0 category=formula discrepancy
+company_id=BAJFINANCE year=2019-03 broad_sector=Financials computed_roce=-484.52 source_roce=11.9 category=formula discrepancy
+company_id=BAJFINANCE year=2020-03 broad_sector=Financials computed_opm=34.73 source_opm=7608.0 category=formula discrepancy
+company_id=BAJFINANCE year=2020-03 broad_sector=Financials computed_roce=-369.82 source_roce=11.9 category=formula discrepancy
+company_id=BAJFINANCE year=2021-03 broad_sector=Financials computed_opm=40.64 source_opm=6314.0 category=formula discrepancy
+company_id=BAJFINANCE year=2021-03 broad_sector=Financials computed_roce=-324.34 source_roce=11.9 category=formula discrepancy
+company_id=BAJFINANCE year=2022-03 broad_sector=Financials computed_opm=37.55 source_opm=9906.0 category=formula discrepancy
+company_id=BAJFINANCE year=2022-03 broad_sector=Financials computed_roce=-347.75 source_roce=11.9 category=formula discrepancy
+company_id=BAJFINANCE year=2023-03 broad_sector=Financials computed_opm=30.65 source_opm=16018.0 category=formula discrepancy
+company_id=BAJFINANCE year=2023-03 broad_sector=Financials computed_roce=-371.87 source_roce=11.9 category=formula discrepancy
+company_id=BAJFINANCE year=2024-03 broad_sector=Financials computed_opm=29.29 source_opm=19987.0 category=formula discrepancy
+company_id=BAJFINANCE year=2024-03 broad_sector=Financials computed_roce=-358.3 source_roce=11.9 category=formula discrepancy
+company_id=BANKBARODA year=2013-03 broad_sector=Financials computed_opm=30.05 source_opm=1006.0 category=formula discrepancy
+company_id=BANKBARODA year=2013-03 broad_sector=Financials computed_roce=-1482.69 source_roce=6.33 category=formula discrepancy
+company_id=BANKBARODA year=2014-03 broad_sector=Financials computed_opm=29.78 source_opm=809.0 category=formula discrepancy
+company_id=BANKBARODA year=2014-03 broad_sector=Financials computed_roce=-1582.95 source_roce=6.33 category=formula discrepancy
+company_id=BANKBARODA year=2015-03 broad_sector=Financials computed_opm=29.98 source_opm=902.0 category=formula discrepancy
+company_id=BANKBARODA year=2015-03 broad_sector=Financials computed_roce=-1538.28 source_roce=6.33 category=formula discrepancy
+company_id=BANKBARODA year=2016-03 broad_sector=Financials computed_opm=55.44 source_opm=-11700.0 category=formula discrepancy
+company_id=BANKBARODA year=2016-03 broad_sector=Financials computed_roce=-1383.16 source_roce=6.33 category=formula discrepancy
+company_id=BANKBARODA year=2017-03 broad_sector=Financials computed_opm=43.28 source_opm=-4372.0 category=formula discrepancy
+company_id=BANKBARODA year=2017-03 broad_sector=Financials computed_roce=-1443.0 source_roce=6.33 category=formula discrepancy
+company_id=BANKBARODA year=2018-03 broad_sector=Financials computed_opm=56.65 source_opm=-9197.0 category=formula discrepancy
+company_id=BANKBARODA year=2018-03 broad_sector=Financials computed_roce=-1361.4 source_roce=6.33 category=formula discrepancy
+company_id=BANKBARODA year=2019-03 broad_sector=Financials computed_opm=48.79 source_opm=-5414.0 category=formula discrepancy
+company_id=BANKBARODA year=2019-03 broad_sector=Financials computed_roce=-1266.7 source_roce=6.33 category=formula discrepancy
+company_id=BANKBARODA year=2020-03 broad_sector=Financials computed_opm=51.44 source_opm=-11728.0 category=formula discrepancy
+company_id=BANKBARODA year=2020-03 broad_sector=Financials computed_roce=-1321.83 source_roce=6.33 category=formula discrepancy
+company_id=BANKBARODA year=2021-03 broad_sector=Financials computed_opm=51.23 source_opm=-6957.0 category=formula discrepancy
+company_id=BANKBARODA year=2021-03 broad_sector=Financials computed_roce=-1228.82 source_roce=6.33 category=formula discrepancy
+company_id=BANKBARODA year=2022-03 broad_sector=Financials computed_opm=51.12 source_opm=-2948.0 category=formula discrepancy
+company_id=BANKBARODA year=2022-03 broad_sector=Financials computed_roce=-1230.15 source_roce=6.33 category=formula discrepancy
+company_id=BANKBARODA year=2023-03 broad_sector=Financials computed_opm=40.45 source_opm=6329.0 category=formula discrepancy
+company_id=BANKBARODA year=2023-03 broad_sector=Financials computed_roce=-1217.95 source_roce=6.33 category=formula discrepancy
+company_id=BANKBARODA year=2024-03 broad_sector=Financials computed_opm=37.49 source_opm=4102.0 category=formula discrepancy
+company_id=BANKBARODA year=2024-03 broad_sector=Financials computed_roce=-1160.8 source_roce=6.33 category=formula discrepancy
+company_id=BEL year=2013-03 broad_sector=Industrials computed_roce=454.23 source_roce=34.6 category=formula discrepancy
+company_id=BEL year=2014-03 broad_sector=Industrials computed_roce=575.8 source_roce=34.6 category=formula discrepancy
+company_id=BEL year=2015-03 broad_sector=Industrials computed_roce=666.47 source_roce=34.6 category=formula discrepancy
+company_id=BEL year=2016-03 broad_sector=Industrials computed_roce=670.59 source_roce=34.6 category=formula discrepancy
+company_id=BEL year=2017-03 broad_sector=Industrials computed_roce=776.65 source_roce=34.6 category=formula discrepancy
+company_id=BEL year=2018-03 broad_sector=Industrials computed_roce=657.1 source_roce=34.6 category=formula discrepancy
+company_id=BEL year=2019-03 broad_sector=Industrials computed_roce=739.53 source_roce=34.6 category=formula discrepancy
+company_id=BEL year=2020-03 broad_sector=Industrials computed_roce=635.83 source_roce=34.6 category=formula discrepancy
+company_id=BEL year=2021-03 broad_sector=Industrials computed_roce=709.64 source_roce=34.6 category=formula discrepancy
+company_id=BEL year=2022-03 broad_sector=Industrials computed_roce=699.15 source_roce=34.6 category=formula discrepancy
+company_id=BEL year=2023-03 broad_sector=Industrials computed_roce=803.77 source_roce=34.6 category=formula discrepancy
+company_id=BEL year=2024-03 broad_sector=Industrials computed_roce=950.28 source_roce=34.6 category=formula discrepancy
+company_id=BHARTIARTL year=2013-03 broad_sector=Communication Services computed_roce=-67.21 source_roce=13.1 category=formula discrepancy
+company_id=BHARTIARTL year=2014-03 broad_sector=Communication Services computed_roce=-65.49 source_roce=13.1 category=formula discrepancy
+company_id=BHARTIARTL year=2015-03 broad_sector=Communication Services computed_roce=-83.53 source_roce=13.1 category=formula discrepancy
+company_id=BHARTIARTL year=2016-03 broad_sector=Communication Services computed_roce=-79.15 source_roce=13.1 category=formula discrepancy
+company_id=BHARTIARTL year=2017-03 broad_sector=Communication Services computed_roce=-82.49 source_roce=13.1 category=formula discrepancy
+company_id=BHARTIARTL year=2018-03 broad_sector=Communication Services computed_roce=-91.53 source_roce=13.1 category=formula discrepancy
+company_id=BHARTIARTL year=2019-03 broad_sector=Communication Services computed_roce=-107.43 source_roce=13.1 category=formula discrepancy
+company_id=BHARTIARTL year=2020-03 broad_sector=Communication Services computed_roce=-106.47 source_roce=13.1 category=formula discrepancy
+company_id=BHARTIARTL year=2021-03 broad_sector=Communication Services computed_roce=-132.99 source_roce=13.1 category=formula discrepancy
+company_id=BHARTIARTL year=2022-03 broad_sector=Communication Services computed_roce=-112.54 source_roce=13.1 category=formula discrepancy
+company_id=BHARTIARTL year=2023-03 broad_sector=Communication Services computed_roce=-135.75 source_roce=13.1 category=formula discrepancy
+company_id=BHARTIARTL year=2024-03 broad_sector=Communication Services computed_roce=-112.4 source_roce=13.1 category=formula discrepancy
+company_id=BHEL year=2013-03 broad_sector=Industrials computed_roce=21.54 source_roce=3.28 category=formula discrepancy
+company_id=BHEL year=2016-03 broad_sector=Industrials computed_roce=-4.72 source_roce=3.28 category=formula discrepancy
+company_id=BHEL year=2019-03 broad_sector=Industrials computed_roce=-1.8 source_roce=3.28 category=formula discrepancy
+company_id=BHEL year=2020-03 broad_sector=Industrials computed_roce=-17.88 source_roce=3.28 category=formula discrepancy
+company_id=BHEL year=2021-03 broad_sector=Industrials computed_roce=-30.24 source_roce=3.28 category=formula discrepancy
+company_id=BHEL year=2022-03 broad_sector=Industrials computed_roce=-14.92 source_roce=3.28 category=formula discrepancy
+company_id=BHEL year=2023-03 broad_sector=Industrials computed_roce=-17.9 source_roce=3.28 category=formula discrepancy
+company_id=BHEL year=2024-03 broad_sector=Industrials computed_roce=-32.99 source_roce=3.28 category=formula discrepancy
+company_id=BOSCHLTD year=2020-03 broad_sector=Consumer Discretionary computed_roce=14.6 source_roce=20.6 category=formula discrepancy
+company_id=BOSCHLTD year=2021-03 broad_sector=Consumer Discretionary computed_roce=10.91 source_roce=20.6 category=formula discrepancy
+company_id=BOSCHLTD year=2022-03 broad_sector=Consumer Discretionary computed_roce=12.61 source_roce=20.6 category=formula discrepancy
+company_id=BOSCHLTD year=2023-03 broad_sector=Consumer Discretionary computed_roce=15.41 source_roce=20.6 category=formula discrepancy
+company_id=BPCL year=2013-03 broad_sector=Energy computed_roce=-137.48 source_roce=32.1 category=formula discrepancy
+company_id=BPCL year=2014-03 broad_sector=Energy computed_roce=-107.65 source_roce=32.1 category=formula discrepancy
+company_id=BPCL year=2015-03 broad_sector=Energy computed_roce=-61.4 source_roce=32.1 category=formula discrepancy
+company_id=BPCL year=2016-03 broad_sector=Energy computed_roce=-34.88 source_roce=32.1 category=formula discrepancy
+company_id=BPCL year=2017-03 broad_sector=Energy computed_roce=-66.64 source_roce=32.1 category=formula discrepancy
+company_id=BPCL year=2018-03 broad_sector=Energy computed_roce=-56.56 source_roce=32.1 category=formula discrepancy
+company_id=BPCL year=2019-03 broad_sector=Energy computed_roce=-70.47 source_roce=32.1 category=formula discrepancy
+company_id=BPCL year=2020-03 broad_sector=Energy computed_roce=-139.12 source_roce=32.1 category=formula discrepancy
+company_id=BPCL year=2021-03 broad_sector=Energy computed_roce=-57.92 source_roce=32.1 category=formula discrepancy
+company_id=BPCL year=2022-03 broad_sector=Energy computed_roce=-79.17 source_roce=32.1 category=formula discrepancy
+company_id=BPCL year=2023-03 broad_sector=Energy computed_roce=-97.64 source_roce=32.1 category=formula discrepancy
+company_id=BPCL year=2024-03 broad_sector=Energy computed_roce=-12.76 source_roce=32.1 category=formula discrepancy
+company_id=BRITANNIA year=2013-03 broad_sector=Consumer Staples computed_roce=6.5 source_roce=48.9 category=formula discrepancy
+company_id=BRITANNIA year=2014-03 broad_sector=Consumer Staples computed_roce=54.14 source_roce=48.9 category=formula discrepancy
+company_id=BRITANNIA year=2017-03 broad_sector=Consumer Staples computed_roce=40.96 source_roce=48.9 category=formula discrepancy
+company_id=BRITANNIA year=2018-03 broad_sector=Consumer Staples computed_roce=36.64 source_roce=48.9 category=formula discrepancy
+company_id=BRITANNIA year=2019-03 broad_sector=Consumer Staples computed_roce=35.7 source_roce=48.9 category=formula discrepancy
+company_id=BRITANNIA year=2020-03 broad_sector=Consumer Staples computed_roce=6.65 source_roce=48.9 category=formula discrepancy
+company_id=BRITANNIA year=2021-03 broad_sector=Consumer Staples computed_roce=10.33 source_roce=48.9 category=formula discrepancy
+company_id=BRITANNIA year=2022-03 broad_sector=Consumer Staples computed_roce=-10.15 source_roce=48.9 category=formula discrepancy
+company_id=BRITANNIA year=2023-03 broad_sector=Consumer Staples computed_roce=-4.41 source_roce=48.9 category=formula discrepancy
+company_id=BRITANNIA year=2024-03 broad_sector=Consumer Staples computed_roce=25.98 source_roce=48.9 category=formula discrepancy
+company_id=CANBK year=2013-03 broad_sector=Financials computed_opm=21.18 source_opm=655.0 category=formula discrepancy
+company_id=CANBK year=2013-03 broad_sector=Financials computed_roce=-1453.95 source_roce=6.63 category=formula discrepancy
+company_id=CANBK year=2014-03 broad_sector=Financials computed_opm=24.35 source_opm=-672.0 category=formula discrepancy
+company_id=CANBK year=2014-03 broad_sector=Financials computed_roce=-1441.42 source_roce=6.63 category=formula discrepancy
+company_id=CANBK year=2015-03 broad_sector=Financials computed_opm=23.51 source_opm=-621.0 category=formula discrepancy
+company_id=CANBK year=2015-03 broad_sector=Financials computed_roce=-1485.94 source_roce=6.63 category=formula discrepancy
+company_id=CANBK year=2016-03 broad_sector=Financials computed_opm=40.38 source_opm=-8008.0 category=formula discrepancy
+company_id=CANBK year=2016-03 broad_sector=Financials computed_roce=-1500.6 source_roce=6.63 category=formula discrepancy
+company_id=CANBK year=2017-03 broad_sector=Financials computed_opm=37.85 source_opm=-5775.0 category=formula discrepancy
+company_id=CANBK year=2017-03 broad_sector=Financials computed_roce=-1482.66 source_roce=6.63 category=formula discrepancy
+company_id=CANBK year=2018-03 broad_sector=Financials computed_opm=61.87 source_opm=-13350.0 category=formula discrepancy
+company_id=CANBK year=2018-03 broad_sector=Financials computed_roce=-1440.78 source_roce=6.63 category=formula discrepancy
+company_id=CANBK year=2019-03 broad_sector=Financials computed_opm=56.73 source_opm=-11590.0 category=formula discrepancy
+company_id=CANBK year=2019-03 broad_sector=Financials computed_roce=-1608.07 source_roce=6.63 category=formula discrepancy
+company_id=CANBK year=2020-03 broad_sector=Financials computed_opm=53.88 source_opm=-12867.0 category=formula discrepancy
+company_id=CANBK year=2020-03 broad_sector=Financials computed_roce=-1539.81 source_roce=6.63 category=formula discrepancy
+company_id=CANBK year=2021-03 broad_sector=Financials computed_opm=61.83 source_opm=-18367.0 category=formula discrepancy
+company_id=CANBK year=2021-03 broad_sector=Financials computed_roce=-1608.84 source_roce=6.63 category=formula discrepancy
+company_id=CANBK year=2022-03 broad_sector=Financials computed_opm=58.39 source_opm=-13657.0 category=formula discrepancy
+company_id=CANBK year=2022-03 broad_sector=Financials computed_roce=-1541.47 source_roce=6.63 category=formula discrepancy
+company_id=CANBK year=2023-03 broad_sector=Financials computed_opm=49.8 source_opm=-9877.0 category=formula discrepancy
+company_id=CANBK year=2023-03 broad_sector=Financials computed_roce=-1510.45 source_roce=6.63 category=formula discrepancy
+company_id=CANBK year=2024-03 broad_sector=Financials computed_opm=41.75 source_opm=-7745.0 category=formula discrepancy
+company_id=CANBK year=2024-03 broad_sector=Financials computed_roce=-1422.73 source_roce=6.63 category=formula discrepancy
+company_id=CHOLAFIN year=2013-03 broad_sector=Financials computed_opm=26.77 source_opm=472.0 category=formula discrepancy
+company_id=CHOLAFIN year=2013-03 broad_sector=Financials computed_roce=-738.65 source_roce=10.4 category=formula discrepancy
+company_id=CHOLAFIN year=2014-03 broad_sector=Financials computed_opm=28.42 source_opm=578.0 category=formula discrepancy
+company_id=CHOLAFIN year=2014-03 broad_sector=Financials computed_roce=-741.48 source_roce=10.4 category=formula discrepancy
+company_id=CHOLAFIN year=2015-03 broad_sector=Financials computed_opm=28.56 source_opm=696.0 category=formula discrepancy
+company_id=CHOLAFIN year=2015-03 broad_sector=Financials computed_roce=-698.3 source_roce=10.4 category=formula discrepancy
+company_id=CHOLAFIN year=2016-03 broad_sector=Financials computed_opm=30.04 source_opm=899.0 category=formula discrepancy
+company_id=CHOLAFIN year=2016-03 broad_sector=Financials computed_roce=-576.38 source_roce=10.4 category=formula discrepancy
+company_id=CHOLAFIN year=2017-03 broad_sector=Financials computed_opm=28.16 source_opm=1143.0 category=formula discrepancy
+company_id=CHOLAFIN year=2017-03 broad_sector=Financials computed_roce=-524.53 source_roce=10.4 category=formula discrepancy
+company_id=CHOLAFIN year=2018-03 broad_sector=Financials computed_opm=26.1 source_opm=1451.0 category=formula discrepancy
+company_id=CHOLAFIN year=2018-03 broad_sector=Financials computed_roce=-712.5 source_roce=10.4 category=formula discrepancy
+company_id=CHOLAFIN year=2019-03 broad_sector=Financials computed_opm=22.96 source_opm=1888.0 category=formula discrepancy
+company_id=CHOLAFIN year=2019-03 broad_sector=Financials computed_roce=-781.09 source_roce=10.4 category=formula discrepancy
+company_id=CHOLAFIN year=2020-03 broad_sector=Financials computed_opm=27.79 source_opm=1699.0 category=formula discrepancy
+company_id=CHOLAFIN year=2020-03 broad_sector=Financials computed_roce=-632.7 source_roce=10.4 category=formula discrepancy
+company_id=CHOLAFIN year=2021-03 broad_sector=Financials computed_opm=30.4 source_opm=2094.0 category=formula discrepancy
+company_id=CHOLAFIN year=2021-03 broad_sector=Financials computed_roce=-626.85 source_roce=10.4 category=formula discrepancy
+company_id=CHOLAFIN year=2022-03 broad_sector=Financials computed_opm=28.83 source_opm=2924.0 category=formula discrepancy
+company_id=CHOLAFIN year=2022-03 broad_sector=Financials computed_roce=-558.11 source_roce=10.4 category=formula discrepancy
+company_id=CHOLAFIN year=2023-03 broad_sector=Financials computed_opm=28.1 source_opm=3515.0 category=formula discrepancy
+company_id=CHOLAFIN year=2023-03 broad_sector=Financials computed_roce=-647.94 source_roce=10.4 category=formula discrepancy
+company_id=CHOLAFIN year=2024-03 broad_sector=Financials computed_opm=28.1 source_opm=4548.0 category=formula discrepancy
+company_id=CHOLAFIN year=2024-03 broad_sector=Financials computed_roce=-652.27 source_roce=10.4 category=formula discrepancy
+company_id=CIPLA year=2013-03 broad_sector=Healthcare computed_opm=73.26 source_opm=2214.0 category=formula discrepancy
+company_id=CIPLA year=2013-03 broad_sector=Healthcare computed_roce=54.53 source_roce=22.8 category=formula discrepancy
+company_id=CIPLA year=2014-03 broad_sector=Healthcare computed_opm=78.9 source_opm=2147.0 category=formula discrepancy
+company_id=CIPLA year=2014-03 broad_sector=Healthcare computed_roce=65.02 source_roce=22.8 category=formula discrepancy
+company_id=CIPLA year=2015-03 broad_sector=Healthcare computed_opm=80.94 source_opm=2163.0 category=formula discrepancy
+company_id=CIPLA year=2015-03 broad_sector=Healthcare computed_roce=66.15 source_roce=22.8 category=formula discrepancy
+company_id=CIPLA year=2016-03 broad_sector=Healthcare computed_opm=82.02 source_opm=2480.0 category=formula discrepancy
+company_id=CIPLA year=2016-03 broad_sector=Healthcare computed_roce=49.78 source_roce=22.8 category=formula discrepancy
+company_id=CIPLA year=2017-03 broad_sector=Healthcare computed_opm=82.66 source_opm=2496.0 category=formula discrepancy
+company_id=CIPLA year=2017-03 broad_sector=Healthcare computed_roce=56.14 source_roce=22.8 category=formula discrepancy
+company_id=CIPLA year=2018-03 broad_sector=Healthcare computed_opm=81.35 source_opm=2826.0 category=formula discrepancy
+company_id=CIPLA year=2018-03 broad_sector=Healthcare computed_roce=52.93 source_roce=22.8 category=formula discrepancy
+company_id=CIPLA year=2019-03 broad_sector=Healthcare computed_opm=81.07 source_opm=3097.0 category=formula discrepancy
+company_id=CIPLA year=2019-03 broad_sector=Healthcare computed_roce=54.77 source_roce=22.8 category=formula discrepancy
+company_id=CIPLA year=2020-03 broad_sector=Healthcare computed_opm=81.29 source_opm=3206.0 category=formula discrepancy
+company_id=CIPLA year=2020-03 broad_sector=Healthcare computed_roce=65.59 source_roce=22.8 category=formula discrepancy
+company_id=CIPLA year=2021-03 broad_sector=Healthcare computed_opm=77.8 source_opm=4252.0 category=formula discrepancy
+company_id=CIPLA year=2021-03 broad_sector=Healthcare computed_roce=66.48 source_roce=22.8 category=formula discrepancy
+company_id=CIPLA year=2022-03 broad_sector=Healthcare computed_opm=79.08 source_opm=4553.0 category=formula discrepancy
+company_id=CIPLA year=2022-03 broad_sector=Healthcare computed_roce=73.79 source_roce=22.8 category=formula discrepancy
+company_id=CIPLA year=2023-03 broad_sector=Healthcare computed_opm=77.91 source_opm=5027.0 category=formula discrepancy
+company_id=CIPLA year=2023-03 broad_sector=Healthcare computed_roce=68.85 source_roce=22.8 category=formula discrepancy
+company_id=CIPLA year=2024-03 broad_sector=Healthcare computed_opm=75.59 source_opm=6291.0 category=formula discrepancy
+company_id=CIPLA year=2024-03 broad_sector=Healthcare computed_roce=68.18 source_roce=22.8 category=formula discrepancy
+company_id=COALINDIA year=2013-03 broad_sector=Materials computed_opm=73.52 source_opm=18087.0 category=formula discrepancy
+company_id=COALINDIA year=2013-03 broad_sector=Materials computed_roce=97.27 source_roce=63.6 category=formula discrepancy
+company_id=COALINDIA year=2014-03 broad_sector=Materials computed_opm=74.84 source_opm=17766.0 category=formula discrepancy
+company_id=COALINDIA year=2014-03 broad_sector=Materials computed_roce=118.61 source_roce=63.6 category=formula discrepancy
+company_id=COALINDIA year=2015-03 broad_sector=Materials computed_opm=76.6 source_opm=17343.0 category=formula discrepancy
+company_id=COALINDIA year=2015-03 broad_sector=Materials computed_roce=132.1 source_roce=63.6 category=formula discrepancy
+company_id=COALINDIA year=2016-03 broad_sector=Materials computed_opm=75.96 source_opm=18714.0 category=formula discrepancy
+company_id=COALINDIA year=2016-03 broad_sector=Materials computed_roce=153.88 source_roce=63.6 category=formula discrepancy
+company_id=COALINDIA year=2017-03 broad_sector=Materials computed_opm=84.07 source_opm=12448.0 category=formula discrepancy
+company_id=COALINDIA year=2017-03 broad_sector=Materials computed_roce=228.63 source_roce=63.6 category=formula discrepancy
+company_id=COALINDIA year=2018-03 broad_sector=Materials computed_opm=89.1 source_opm=9288.0 category=formula discrepancy
+company_id=COALINDIA year=2018-03 broad_sector=Materials computed_roce=320.2 source_roce=63.6 category=formula discrepancy
+company_id=COALINDIA year=2019-03 broad_sector=Materials computed_opm=74.89 source_opm=25007.0 category=formula discrepancy
+company_id=COALINDIA year=2019-03 broad_sector=Materials computed_roce=242.0 source_roce=63.6 category=formula discrepancy
+company_id=COALINDIA year=2020-03 broad_sector=Materials computed_opm=77.54 source_opm=21581.0 category=formula discrepancy
+company_id=COALINDIA year=2020-03 broad_sector=Materials computed_roce=191.15 source_roce=63.6 category=formula discrepancy
+company_id=COALINDIA year=2021-03 broad_sector=Materials computed_opm=79.31 source_opm=18628.0 category=formula discrepancy
+company_id=COALINDIA year=2021-03 broad_sector=Materials computed_roce=162.82 source_roce=63.6 category=formula discrepancy
+company_id=COALINDIA year=2022-03 broad_sector=Materials computed_opm=77.47 source_opm=24721.0 category=formula discrepancy
+company_id=COALINDIA year=2022-03 broad_sector=Materials computed_roce=171.28 source_roce=63.6 category=formula discrepancy
+company_id=COALINDIA year=2023-03 broad_sector=Materials computed_opm=68.01 source_opm=44232.0 category=formula discrepancy
+company_id=COALINDIA year=2023-03 broad_sector=Materials computed_roce=132.53 source_roce=63.6 category=formula discrepancy
+company_id=COALINDIA year=2024-03 broad_sector=Materials computed_opm=66.29 source_opm=47971.0 category=formula discrepancy
+company_id=COALINDIA year=2024-03 broad_sector=Materials computed_roce=98.17 source_roce=63.6 category=formula discrepancy
+company_id=DABUR year=2013-03 broad_sector=Consumer Staples computed_roce=-7.29 source_roce=22.3 category=formula discrepancy
+company_id=DABUR year=2014-03 broad_sector=Consumer Staples computed_roce=16.49 source_roce=22.3 category=formula discrepancy
+company_id=DABUR year=2015-03 broad_sector=Consumer Staples computed_roce=16.89 source_roce=22.3 category=formula discrepancy
+company_id=DABUR year=2016-03 broad_sector=Consumer Staples computed_roce=16.57 source_roce=22.3 category=formula discrepancy
+company_id=DABUR year=2017-03 broad_sector=Consumer Staples computed_roce=10.76 source_roce=22.3 category=formula discrepancy
+company_id=DABUR year=2018-03 broad_sector=Consumer Staples computed_roce=11.57 source_roce=22.3 category=formula discrepancy
+company_id=DABUR year=2022-03 broad_sector=Consumer Staples computed_roce=14.15 source_roce=22.3 category=formula discrepancy
+company_id=DABUR year=2023-03 broad_sector=Consumer Staples computed_roce=10.64 source_roce=22.3 category=formula discrepancy
+company_id=DABUR year=2024-03 broad_sector=Consumer Staples computed_roce=10.08 source_roce=22.3 category=formula discrepancy
+company_id=DIVISLAB year=2013-03 broad_sector=Healthcare computed_roce=30.37 source_roce=16.5 category=formula discrepancy
+company_id=DIVISLAB year=2014-03 broad_sector=Healthcare computed_roce=32.72 source_roce=16.5 category=formula discrepancy
+company_id=DIVISLAB year=2015-03 broad_sector=Healthcare computed_roce=31.55 source_roce=16.5 category=formula discrepancy
+company_id=DIVISLAB year=2016-03 broad_sector=Healthcare computed_roce=31.31 source_roce=16.5 category=formula discrepancy
+company_id=DIVISLAB year=2017-03 broad_sector=Healthcare computed_roce=25.8 source_roce=16.5 category=formula discrepancy
+company_id=DIVISLAB year=2019-03 broad_sector=Healthcare computed_roce=24.81 source_roce=16.5 category=formula discrepancy
+company_id=DIVISLAB year=2020-03 broad_sector=Healthcare computed_roce=23.84 source_roce=16.5 category=formula discrepancy
+company_id=DIVISLAB year=2021-03 broad_sector=Healthcare computed_roce=29.97 source_roce=16.5 category=formula discrepancy
+company_id=DIVISLAB year=2022-03 broad_sector=Healthcare computed_roce=32.23 source_roce=16.5 category=formula discrepancy
+company_id=DLF year=2013-03 broad_sector=Real Estate computed_roce=-90.36 source_roce=5.74 category=formula discrepancy
+company_id=DLF year=2014-03 broad_sector=Real Estate computed_roce=-77.13 source_roce=5.74 category=formula discrepancy
+company_id=DLF year=2015-03 broad_sector=Real Estate computed_roce=-76.95 source_roce=5.74 category=formula discrepancy
+company_id=DLF year=2016-03 broad_sector=Real Estate computed_roce=-85.76 source_roce=5.74 category=formula discrepancy
+company_id=DLF year=2017-03 broad_sector=Real Estate computed_roce=-102.43 source_roce=5.74 category=formula discrepancy
+company_id=DLF year=2018-03 broad_sector=Real Estate computed_roce=-42.16 source_roce=5.74 category=formula discrepancy
+company_id=DLF year=2019-03 broad_sector=Real Estate computed_roce=-44.6 source_roce=5.74 category=formula discrepancy
+company_id=DLF year=2020-03 broad_sector=Real Estate computed_roce=-20.08 source_roce=5.74 category=formula discrepancy
+company_id=DLF year=2021-03 broad_sector=Real Estate computed_roce=-15.26 source_roce=5.74 category=formula discrepancy
+company_id=DLF year=2022-03 broad_sector=Real Estate computed_roce=-6.68 source_roce=5.74 category=formula discrepancy
+company_id=DLF year=2023-03 broad_sector=Real Estate computed_roce=-4.25 source_roce=5.74 category=formula discrepancy
+company_id=DLF year=2024-03 broad_sector=Real Estate computed_roce=-6.85 source_roce=5.74 category=formula discrepancy
+company_id=DMART year=2013-03 broad_sector=Consumer Discretionary computed_roce=-37.25 source_roce=19.4 category=formula discrepancy
+company_id=DMART year=2014-03 broad_sector=Consumer Discretionary computed_roce=-29.62 source_roce=19.4 category=formula discrepancy
+company_id=DMART year=2015-03 broad_sector=Consumer Discretionary computed_roce=-34.95 source_roce=19.4 category=formula discrepancy
+company_id=DMART year=2016-03 broad_sector=Consumer Discretionary computed_roce=-32.61 source_roce=19.4 category=formula discrepancy
+company_id=DMART year=2017-03 broad_sector=Consumer Discretionary computed_roce=-13.3 source_roce=19.4 category=formula discrepancy
+company_id=DMART year=2021-03 broad_sector=Consumer Discretionary computed_roce=10.73 source_roce=19.4 category=formula discrepancy
+company_id=DMART year=2022-03 broad_sector=Consumer Discretionary computed_roce=13.09 source_roce=19.4 category=formula discrepancy
+company_id=DRREDDY year=2013-03 broad_sector=Healthcare computed_roce=-14.64 source_roce=26.5 category=formula discrepancy
+company_id=DRREDDY year=2014-03 broad_sector=Healthcare computed_roce=-14.4 source_roce=26.5 category=formula discrepancy
+company_id=DRREDDY year=2015-03 broad_sector=Healthcare computed_roce=-7.59 source_roce=26.5 category=formula discrepancy
+company_id=DRREDDY year=2016-03 broad_sector=Healthcare computed_roce=1.72 source_roce=26.5 category=formula discrepancy
+company_id=DRREDDY year=2017-03 broad_sector=Healthcare computed_roce=-18.41 source_roce=26.5 category=formula discrepancy
+company_id=DRREDDY year=2018-03 broad_sector=Healthcare computed_roce=-19.93 source_roce=26.5 category=formula discrepancy
+company_id=DRREDDY year=2019-03 broad_sector=Healthcare computed_roce=-4.35 source_roce=26.5 category=formula discrepancy
+company_id=DRREDDY year=2020-03 broad_sector=Healthcare computed_roce=1.59 source_roce=26.5 category=formula discrepancy
+company_id=DRREDDY year=2021-03 broad_sector=Healthcare computed_roce=4.47 source_roce=26.5 category=formula discrepancy
+company_id=DRREDDY year=2022-03 broad_sector=Healthcare computed_roce=1.88 source_roce=26.5 category=formula discrepancy
+company_id=DRREDDY year=2023-03 broad_sector=Healthcare computed_roce=20.88 source_roce=26.5 category=formula discrepancy
+company_id=DRREDDY year=2024-03 broad_sector=Healthcare computed_roce=19.95 source_roce=26.5 category=formula discrepancy
+company_id=EICHERMOT year=2014-12 broad_sector=Consumer Discretionary computed_roce=38.74 source_roce=31.1 category=formula discrepancy
+company_id=EICHERMOT year=2016-03 broad_sector=Consumer Discretionary computed_roce=43.98 source_roce=31.1 category=formula discrepancy
+company_id=EICHERMOT year=2017-03 broad_sector=Consumer Discretionary computed_roce=37.5 source_roce=31.1 category=formula discrepancy
+company_id=EICHERMOT year=2018-03 broad_sector=Consumer Discretionary computed_roce=36.65 source_roce=31.1 category=formula discrepancy
+company_id=EICHERMOT year=2020-03 broad_sector=Consumer Discretionary computed_roce=18.66 source_roce=31.1 category=formula discrepancy
+company_id=EICHERMOT year=2021-03 broad_sector=Consumer Discretionary computed_roce=13.16 source_roce=31.1 category=formula discrepancy
+company_id=EICHERMOT year=2022-03 broad_sector=Consumer Discretionary computed_roce=15.85 source_roce=31.1 category=formula discrepancy
+company_id=EICHERMOT year=2023-03 broad_sector=Consumer Discretionary computed_roce=20.35 source_roce=31.1 category=formula discrepancy
+company_id=EICHERMOT year=2024-03 broad_sector=Consumer Discretionary computed_roce=20.97 source_roce=31.1 category=formula discrepancy
+company_id=GAIL year=2013-03 broad_sector=Energy computed_roce=-30.04 source_roce=14.7 category=formula discrepancy
+company_id=GAIL year=2014-03 broad_sector=Energy computed_roce=-30.94 source_roce=14.7 category=formula discrepancy
+company_id=GAIL year=2015-03 broad_sector=Energy computed_roce=-35.71 source_roce=14.7 category=formula discrepancy
+company_id=GAIL year=2016-03 broad_sector=Energy computed_roce=-11.92 source_roce=14.7 category=formula discrepancy
+company_id=GAIL year=2017-03 broad_sector=Energy computed_roce=-1.3 source_roce=14.7 category=formula discrepancy
+company_id=GAIL year=2018-03 broad_sector=Energy computed_roce=9.09 source_roce=14.7 category=formula discrepancy
+company_id=GAIL year=2020-03 broad_sector=Energy computed_roce=4.11 source_roce=14.7 category=formula discrepancy
+company_id=GAIL year=2021-03 broad_sector=Energy computed_roce=-1.13 source_roce=14.7 category=formula discrepancy
+company_id=GAIL year=2022-03 broad_sector=Energy computed_roce=8.94 source_roce=14.7 category=formula discrepancy
+company_id=GAIL year=2023-03 broad_sector=Energy computed_roce=-15.25 source_roce=14.7 category=formula discrepancy
+company_id=GAIL year=2024-03 broad_sector=Energy computed_roce=-9.27 source_roce=14.7 category=formula discrepancy
+company_id=GODREJCP year=2013-03 broad_sector=Consumer Staples computed_roce=-43.1 source_roce=26.49 category=formula discrepancy
+company_id=GODREJCP year=2014-03 broad_sector=Consumer Staples computed_roce=-31.22 source_roce=26.49 category=formula discrepancy
+company_id=GODREJCP year=2015-03 broad_sector=Consumer Staples computed_roce=-30.4 source_roce=26.49 category=formula discrepancy
+company_id=GODREJCP year=2016-03 broad_sector=Consumer Staples computed_roce=-28.25 source_roce=26.49 category=formula discrepancy
+company_id=GODREJCP year=2017-03 broad_sector=Consumer Staples computed_roce=-38.46 source_roce=26.49 category=formula discrepancy
+company_id=GODREJCP year=2018-03 broad_sector=Consumer Staples computed_roce=-22.2 source_roce=26.49 category=formula discrepancy
+company_id=GODREJCP year=2019-03 broad_sector=Consumer Staples computed_roce=-16.81 source_roce=26.49 category=formula discrepancy
+company_id=GODREJCP year=2020-03 broad_sector=Consumer Staples computed_roce=-17.55 source_roce=26.49 category=formula discrepancy
+company_id=GODREJCP year=2021-03 broad_sector=Consumer Staples computed_roce=5.55 source_roce=26.49 category=formula discrepancy
+company_id=GODREJCP year=2022-03 broad_sector=Consumer Staples computed_roce=5.99 source_roce=26.49 category=formula discrepancy
+company_id=GODREJCP year=2023-03 broad_sector=Consumer Staples computed_roce=9.36 source_roce=26.49 category=formula discrepancy
+company_id=GODREJCP year=2024-03 broad_sector=Consumer Staples computed_roce=-2.06 source_roce=26.49 category=formula discrepancy
+company_id=GRASIM year=2013-03 broad_sector=Industrials computed_roce=-17.34 source_roce=9.3 category=formula discrepancy
+company_id=GRASIM year=2014-03 broad_sector=Industrials computed_roce=-20.66 source_roce=9.3 category=formula discrepancy
+company_id=GRASIM year=2015-03 broad_sector=Industrials computed_roce=-27.47 source_roce=9.3 category=formula discrepancy
+company_id=GRASIM year=2016-03 broad_sector=Industrials computed_roce=-22.53 source_roce=9.3 category=formula discrepancy
+company_id=GRASIM year=2017-03 broad_sector=Industrials computed_roce=-5.5 source_roce=9.3 category=formula discrepancy
+company_id=GRASIM year=2018-03 broad_sector=Industrials computed_roce=-92.3 source_roce=9.3 category=formula discrepancy
+company_id=GRASIM year=2019-03 broad_sector=Industrials computed_roce=-110.16 source_roce=9.3 category=formula discrepancy
+company_id=GRASIM year=2020-03 broad_sector=Industrials computed_roce=-122.7 source_roce=9.3 category=formula discrepancy
+company_id=GRASIM year=2021-03 broad_sector=Industrials computed_roce=-86.93 source_roce=9.3 category=formula discrepancy
+company_id=GRASIM year=2022-03 broad_sector=Industrials computed_roce=-68.01 source_roce=9.3 category=formula discrepancy
+company_id=GRASIM year=2023-03 broad_sector=Industrials computed_roce=-97.79 source_roce=9.3 category=formula discrepancy
+company_id=GRASIM year=2024-03 broad_sector=Industrials computed_roce=-117.41 source_roce=9.3 category=formula discrepancy
+company_id=HAL year=2013-03 broad_sector=Industrials computed_roce=127.79 source_roce=38.9 category=formula discrepancy
+company_id=HAL year=2014-03 broad_sector=Industrials computed_roce=260.36 source_roce=38.9 category=formula discrepancy
+company_id=HAL year=2015-03 broad_sector=Industrials computed_roce=291.69 source_roce=38.9 category=formula discrepancy
+company_id=HAL year=2016-03 broad_sector=Industrials computed_roce=250.25 source_roce=38.9 category=formula discrepancy
+company_id=HAL year=2017-03 broad_sector=Industrials computed_roce=397.3 source_roce=38.9 category=formula discrepancy
+company_id=HAL year=2018-03 broad_sector=Industrials computed_roce=320.98 source_roce=38.9 category=formula discrepancy
+company_id=HAL year=2019-03 broad_sector=Industrials computed_roce=394.21 source_roce=38.9 category=formula discrepancy
+company_id=HAL year=2020-03 broad_sector=Industrials computed_roce=429.4 source_roce=38.9 category=formula discrepancy
+company_id=HAL year=2021-03 broad_sector=Industrials computed_roce=410.07 source_roce=38.9 category=formula discrepancy
+company_id=HAL year=2022-03 broad_sector=Industrials computed_roce=428.19 source_roce=38.9 category=formula discrepancy
+company_id=HAL year=2023-03 broad_sector=Industrials computed_roce=337.68 source_roce=38.9 category=formula discrepancy
+company_id=HAL year=2024-03 broad_sector=Industrials computed_roce=599.75 source_roce=38.9 category=formula discrepancy
+company_id=HAVELLS year=2013-03 broad_sector=Industrials computed_roce=-19.85 source_roce=24.4 category=formula discrepancy
+company_id=HAVELLS year=2014-03 broad_sector=Industrials computed_roce=-15.54 source_roce=24.4 category=formula discrepancy
+company_id=HAVELLS year=2015-03 broad_sector=Industrials computed_roce=16.91 source_roce=24.4 category=formula discrepancy
+company_id=HAVELLS year=2017-03 broad_sector=Industrials computed_roce=17.87 source_roce=24.4 category=formula discrepancy
+company_id=HAVELLS year=2022-03 broad_sector=Industrials computed_roce=18.5 source_roce=24.4 category=formula discrepancy
+company_id=HCLTECH year=2014-06 broad_sector=Information Technology computed_roce=34.68 source_roce=29.6 category=formula discrepancy
+company_id=HCLTECH year=2016-03 broad_sector=Information Technology computed_roce=20.01 source_roce=29.6 category=formula discrepancy
+company_id=HCLTECH year=2019-03 broad_sector=Information Technology computed_roce=22.4 source_roce=29.6 category=formula discrepancy
+company_id=HCLTECH year=2020-03 broad_sector=Information Technology computed_roce=17.06 source_roce=29.6 category=formula discrepancy
+company_id=HCLTECH year=2021-03 broad_sector=Information Technology computed_roce=20.43 source_roce=29.6 category=formula discrepancy
+company_id=HCLTECH year=2022-03 broad_sector=Information Technology computed_roce=21.42 source_roce=29.6 category=formula discrepancy
+company_id=HDFCBANK year=2013-03 broad_sector=Financials computed_opm=35.22 source_opm=3534.0 category=formula discrepancy
+company_id=HDFCBANK year=2013-03 broad_sector=Financials computed_roce=-865.7 source_roce=7.67 category=formula discrepancy
+company_id=HDFCBANK year=2014-03 broad_sector=Financials computed_opm=31.74 source_opm=5602.0 category=formula discrepancy
+company_id=HDFCBANK year=2014-03 broad_sector=Financials computed_roce=-898.81 source_roce=7.67 category=formula discrepancy
+company_id=HDFCBANK year=2015-03 broad_sector=Financials computed_opm=31.9 source_opm=7214.0 category=formula discrepancy
+company_id=HDFCBANK year=2015-03 broad_sector=Financials computed_roce=-773.25 source_roce=7.67 category=formula discrepancy
+company_id=HDFCBANK year=2016-03 broad_sector=Financials computed_opm=31.75 source_opm=9037.0 category=formula discrepancy
+company_id=HDFCBANK year=2016-03 broad_sector=Financials computed_roce=-838.91 source_roce=7.67 category=formula discrepancy
+company_id=HDFCBANK year=2017-03 broad_sector=Financials computed_opm=32.56 source_opm=11374.0 category=formula discrepancy
+company_id=HDFCBANK year=2017-03 broad_sector=Financials computed_roce=-774.38 source_roce=7.67 category=formula discrepancy
+company_id=HDFCBANK year=2018-03 broad_sector=Financials computed_opm=34.63 source_opm=13374.0 category=formula discrepancy
+company_id=HDFCBANK year=2018-03 broad_sector=Financials computed_roce=-827.82 source_roce=7.67 category=formula discrepancy
+company_id=HDFCBANK year=2019-03 broad_sector=Financials computed_opm=33.15 source_opm=16592.0 category=formula discrepancy
+company_id=HDFCBANK year=2019-03 broad_sector=Financials computed_roce=-674.9 source_roce=7.67 category=formula discrepancy
+company_id=HDFCBANK year=2020-03 broad_sector=Financials computed_opm=37.2 source_opm=14593.0 category=formula discrepancy
+company_id=HDFCBANK year=2020-03 broad_sector=Financials computed_roce=-724.85 source_roce=7.67 category=formula discrepancy
+company_id=HDFCBANK year=2021-03 broad_sector=Financials computed_opm=40.81 source_opm=16848.0 category=formula discrepancy
+company_id=HDFCBANK year=2021-03 broad_sector=Financials computed_roce=-690.81 source_roce=7.67 category=formula discrepancy
+company_id=HDFCBANK year=2022-03 broad_sector=Financials computed_opm=41.61 source_opm=20795.0 category=formula discrepancy
+company_id=HDFCBANK year=2022-03 broad_sector=Financials computed_roce=-694.12 source_roce=7.67 category=formula discrepancy
+company_id=HDFCBANK year=2023-03 broad_sector=Financials computed_opm=36.92 source_opm=29932.0 category=formula discrepancy
+company_id=HDFCBANK year=2023-03 broad_sector=Financials computed_roce=-711.55 source_roce=7.67 category=formula discrepancy
+company_id=HDFCBANK year=2024-03 broad_sector=Financials computed_opm=61.41 source_opm=-44685.0 category=formula discrepancy
+company_id=HDFCBANK year=2024-03 broad_sector=Financials computed_roce=-638.39 source_roce=7.67 category=formula discrepancy
+company_id=HDFCLIFE year=2013-03 broad_sector=Financials computed_opm=96.27 source_opm=525.0 category=formula discrepancy
+company_id=HDFCLIFE year=2013-03 broad_sector=Financials computed_roce=986.52 source_roce=6.61 category=formula discrepancy
+company_id=HDFCLIFE year=2014-03 broad_sector=Financials computed_opm=96.48 source_opm=605.0 category=formula discrepancy
+company_id=HDFCLIFE year=2014-03 broad_sector=Financials computed_roce=841.09 source_roce=6.61 category=formula discrepancy
+company_id=HDFCLIFE year=2015-03 broad_sector=Financials computed_opm=96.79 source_opm=874.0 category=formula discrepancy
+company_id=HDFCLIFE year=2015-03 broad_sector=Financials computed_roce=1019.39 source_roce=6.61 category=formula discrepancy
+company_id=HDFCLIFE year=2016-03 broad_sector=Financials computed_opm=94.74 source_opm=953.0 category=formula discrepancy
+company_id=HDFCLIFE year=2016-03 broad_sector=Financials computed_roce=545.97 source_roce=6.61 category=formula discrepancy
+company_id=HDFCLIFE year=2017-03 broad_sector=Financials computed_opm=96.83 source_opm=972.0 category=formula discrepancy
+company_id=HDFCLIFE year=2017-03 broad_sector=Financials computed_roce=767.36 source_roce=6.61 category=formula discrepancy
+company_id=HDFCLIFE year=2018-03 broad_sector=Financials computed_opm=96.67 source_opm=1074.0 category=formula discrepancy
+company_id=HDFCLIFE year=2018-03 broad_sector=Financials computed_roce=656.69 source_roce=6.61 category=formula discrepancy
+company_id=HDFCLIFE year=2019-03 broad_sector=Financials computed_opm=96.87 source_opm=1215.0 category=formula discrepancy
+company_id=HDFCLIFE year=2019-03 broad_sector=Financials computed_roce=661.86 source_roce=6.61 category=formula discrepancy
+company_id=HDFCLIFE year=2020-03 broad_sector=Financials computed_opm=96.12 source_opm=1141.0 category=formula discrepancy
+company_id=HDFCLIFE year=2020-03 broad_sector=Financials computed_roce=412.01 source_roce=6.61 category=formula discrepancy
+company_id=HDFCLIFE year=2021-03 broad_sector=Financials computed_opm=98.27 source_opm=1235.0 category=formula discrepancy
+company_id=HDFCLIFE year=2021-03 broad_sector=Financials computed_roce=801.91 source_roce=6.61 category=formula discrepancy
+company_id=HDFCLIFE year=2022-03 broad_sector=Financials computed_opm=98.84 source_opm=778.0 category=formula discrepancy
+company_id=HDFCLIFE year=2022-03 broad_sector=Financials computed_roce=419.58 source_roce=6.61 category=formula discrepancy
+company_id=HDFCLIFE year=2023-03 broad_sector=Financials computed_opm=99.89 source_opm=80.0 category=formula discrepancy
+company_id=HDFCLIFE year=2023-03 broad_sector=Financials computed_roce=529.32 source_roce=6.61 category=formula discrepancy
+company_id=HDFCLIFE year=2024-03 broad_sector=Financials computed_opm=99.48 source_opm=531.0 category=formula discrepancy
+company_id=HDFCLIFE year=2024-03 broad_sector=Financials computed_roce=678.2 source_roce=6.61 category=formula discrepancy
+company_id=HEROMOTOCO year=2014-03 broad_sector=Consumer Discretionary computed_opm=85.94 source_opm=3553.0 category=formula discrepancy
+company_id=HEROMOTOCO year=2014-03 broad_sector=Consumer Discretionary computed_roce=318.54 source_roce=29.1 category=formula discrepancy
+company_id=HEROMOTOCO year=2015-03 broad_sector=Consumer Discretionary computed_opm=87.22 source_opm=3520.0 category=formula discrepancy
+company_id=HEROMOTOCO year=2015-03 broad_sector=Consumer Discretionary computed_roce=337.82 source_roce=29.1 category=formula discrepancy
+company_id=HEROMOTOCO year=2016-03 broad_sector=Consumer Discretionary computed_opm=84.45 source_opm=4424.0 category=formula discrepancy
+company_id=HEROMOTOCO year=2016-03 broad_sector=Consumer Discretionary computed_roce=256.56 source_roce=29.1 category=formula discrepancy
+company_id=HEROMOTOCO year=2017-03 broad_sector=Consumer Discretionary computed_opm=83.97 source_opm=4585.0 category=formula discrepancy
+company_id=HEROMOTOCO year=2017-03 broad_sector=Consumer Discretionary computed_roce=219.67 source_roce=29.1 category=formula discrepancy
+company_id=HEROMOTOCO year=2018-03 broad_sector=Consumer Discretionary computed_opm=83.57 source_opm=5334.0 category=formula discrepancy
+company_id=HEROMOTOCO year=2018-03 broad_sector=Consumer Discretionary computed_roce=214.36 source_roce=29.1 category=formula discrepancy
+company_id=HEROMOTOCO year=2019-03 broad_sector=Consumer Discretionary computed_opm=85.21 source_opm=5025.0 category=formula discrepancy
+company_id=HEROMOTOCO year=2019-03 broad_sector=Consumer Discretionary computed_roce=208.34 source_roce=29.1 category=formula discrepancy
+company_id=HEROMOTOCO year=2020-03 broad_sector=Consumer Discretionary computed_opm=86.09 source_opm=4070.0 category=formula discrepancy
+company_id=HEROMOTOCO year=2020-03 broad_sector=Consumer Discretionary computed_roce=162.15 source_roce=29.1 category=formula discrepancy
+company_id=HEROMOTOCO year=2021-03 broad_sector=Consumer Discretionary computed_opm=86.9 source_opm=4058.0 category=formula discrepancy
+company_id=HEROMOTOCO year=2021-03 broad_sector=Consumer Discretionary computed_roce=163.15 source_roce=29.1 category=formula discrepancy
+company_id=HEROMOTOCO year=2022-03 broad_sector=Consumer Discretionary computed_opm=88.98 source_opm=3256.0 category=formula discrepancy
+company_id=HEROMOTOCO year=2022-03 broad_sector=Consumer Discretionary computed_roce=155.35 source_roce=29.1 category=formula discrepancy
+company_id=HEROMOTOCO year=2023-03 broad_sector=Consumer Discretionary computed_opm=88.0 source_opm=4099.0 category=formula discrepancy
+company_id=HEROMOTOCO year=2023-03 broad_sector=Consumer Discretionary computed_roce=169.95 source_roce=29.1 category=formula discrepancy
+company_id=HEROMOTOCO year=2024-03 broad_sector=Consumer Discretionary computed_opm=86.15 source_opm=5235.0 category=formula discrepancy
+company_id=HEROMOTOCO year=2024-03 broad_sector=Consumer Discretionary computed_roce=173.1 source_roce=29.1 category=formula discrepancy
+company_id=HINDALCO year=2013-03 broad_sector=Materials computed_opm=90.4 source_opm=7699.0 category=formula discrepancy
+company_id=HINDALCO year=2013-03 broad_sector=Materials computed_roce=40.74 source_roce=11.3 category=formula discrepancy
+company_id=HINDALCO year=2014-03 broad_sector=Materials computed_opm=90.85 source_opm=8024.0 category=formula discrepancy
+company_id=HINDALCO year=2014-03 broad_sector=Materials computed_roce=33.94 source_roce=11.3 category=formula discrepancy
+company_id=HINDALCO year=2015-03 broad_sector=Materials computed_opm=91.52 source_opm=8844.0 category=formula discrepancy
+company_id=HINDALCO year=2015-03 broad_sector=Materials computed_roce=64.49 source_roce=11.3 category=formula discrepancy
+company_id=HINDALCO year=2016-03 broad_sector=Materials computed_opm=92.12 source_opm=7778.0 category=formula discrepancy
+company_id=HINDALCO year=2016-03 broad_sector=Materials computed_roce=52.12 source_roce=11.3 category=formula discrepancy
+company_id=HINDALCO year=2017-03 broad_sector=Materials computed_opm=87.71 source_opm=12317.0 category=formula discrepancy
+company_id=HINDALCO year=2017-03 broad_sector=Materials computed_roce=47.61 source_roce=11.3 category=formula discrepancy
+company_id=HINDALCO year=2018-03 broad_sector=Materials computed_opm=88.11 source_opm=13695.0 category=formula discrepancy
+company_id=HINDALCO year=2018-03 broad_sector=Materials computed_roce=83.25 source_roce=11.3 category=formula discrepancy
+company_id=HINDALCO year=2019-03 broad_sector=Materials computed_opm=88.12 source_opm=15511.0 category=formula discrepancy
+company_id=HINDALCO year=2019-03 broad_sector=Materials computed_roce=100.54 source_roce=11.3 category=formula discrepancy
+company_id=HINDALCO year=2020-03 broad_sector=Materials computed_opm=87.89 source_opm=14306.0 category=formula discrepancy
+company_id=HINDALCO year=2020-03 broad_sector=Materials computed_roce=55.89 source_roce=11.3 category=formula discrepancy
+company_id=HINDALCO year=2021-03 broad_sector=Materials computed_opm=86.7 source_opm=17559.0 category=formula discrepancy
+company_id=HINDALCO year=2021-03 broad_sector=Materials computed_roce=64.57 source_roce=11.3 category=formula discrepancy
+company_id=HINDALCO year=2022-03 broad_sector=Materials computed_opm=85.47 source_opm=28347.0 category=formula discrepancy
+company_id=HINDALCO year=2022-03 broad_sector=Materials computed_roce=120.38 source_roce=11.3 category=formula discrepancy
+company_id=HINDALCO year=2023-03 broad_sector=Materials computed_opm=89.85 source_opm=22666.0 category=formula discrepancy
+company_id=HINDALCO year=2023-03 broad_sector=Materials computed_roce=137.64 source_roce=11.3 category=formula discrepancy
+company_id=HINDALCO year=2024-03 broad_sector=Materials computed_opm=88.95 source_opm=23872.0 category=formula discrepancy
+company_id=HINDALCO year=2024-03 broad_sector=Materials computed_roce=119.41 source_roce=11.3 category=formula discrepancy
+company_id=HINDUNILVR year=2013-03 broad_sector=Consumer Staples computed_opm=84.37 source_opm=4220.0 category=formula discrepancy
+company_id=HINDUNILVR year=2013-03 broad_sector=Consumer Staples computed_roce=730.39 source_roce=27.2 category=formula discrepancy
+company_id=HINDUNILVR year=2014-03 broad_sector=Consumer Staples computed_opm=83.72 source_opm=4759.0 category=formula discrepancy
+company_id=HINDUNILVR year=2014-03 broad_sector=Consumer Staples computed_roce=637.33 source_roce=27.2 category=formula discrepancy
+company_id=HINDUNILVR year=2015-03 broad_sector=Consumer Staples computed_opm=83.07 source_opm=5412.0 category=formula discrepancy
+company_id=HINDUNILVR year=2015-03 broad_sector=Consumer Staples computed_roce=609.73 source_roce=27.2 category=formula discrepancy
+company_id=HINDUNILVR year=2016-03 broad_sector=Consumer Staples computed_opm=81.64 source_opm=5910.0 category=formula discrepancy
+company_id=HINDUNILVR year=2016-03 broad_sector=Consumer Staples computed_roce=376.83 source_roce=27.2 category=formula discrepancy
+company_id=HINDUNILVR year=2017-03 broad_sector=Consumer Staples computed_opm=80.92 source_opm=6328.0 category=formula discrepancy
+company_id=HINDUNILVR year=2017-03 broad_sector=Consumer Staples computed_roce=370.08 source_roce=27.2 category=formula discrepancy
+company_id=HINDUNILVR year=2018-03 broad_sector=Consumer Staples computed_opm=78.9 source_opm=7499.0 category=formula discrepancy
+company_id=HINDUNILVR year=2018-03 broad_sector=Consumer Staples computed_roce=359.52 source_roce=27.2 category=formula discrepancy
+company_id=HINDUNILVR year=2019-03 broad_sector=Consumer Staples computed_opm=77.41 source_opm=8880.0 category=formula discrepancy
+company_id=HINDUNILVR year=2019-03 broad_sector=Consumer Staples computed_roce=359.71 source_roce=27.2 category=formula discrepancy
+company_id=HINDUNILVR year=2020-03 broad_sector=Consumer Staples computed_opm=75.21 source_opm=9861.0 category=formula discrepancy
+company_id=HINDUNILVR year=2020-03 broad_sector=Consumer Staples computed_roce=324.15 source_roce=27.2 category=formula discrepancy
+company_id=HINDUNILVR year=2021-03 broad_sector=Consumer Staples computed_opm=75.28 source_opm=11626.0 category=formula discrepancy
+company_id=HINDUNILVR year=2021-03 broad_sector=Consumer Staples computed_roce=72.62 source_roce=27.2 category=formula discrepancy
+company_id=HINDUNILVR year=2022-03 broad_sector=Consumer Staples computed_opm=75.49 source_opm=12857.0 category=formula discrepancy
+company_id=HINDUNILVR year=2022-03 broad_sector=Consumer Staples computed_roce=76.86 source_roce=27.2 category=formula discrepancy
+company_id=HINDUNILVR year=2023-03 broad_sector=Consumer Staples computed_opm=76.65 source_opm=14147.0 category=formula discrepancy
+company_id=HINDUNILVR year=2023-03 broad_sector=Consumer Staples computed_roce=87.89 source_roce=27.2 category=formula discrepancy
+company_id=HINDUNILVR year=2024-03 broad_sector=Consumer Staples computed_opm=76.32 source_opm=14659.0 category=formula discrepancy
+company_id=HINDUNILVR year=2024-03 broad_sector=Consumer Staples computed_roce=87.26 source_roce=27.2 category=formula discrepancy
+company_id=ICICIBANK year=2013-03 broad_sector=Financials computed_opm=70.59 source_opm=-15085.0 category=formula discrepancy
+company_id=ICICIBANK year=2013-03 broad_sector=Financials computed_roce=-657.14 source_roce=7.6 category=formula discrepancy
+company_id=ICICIBANK year=2014-03 broad_sector=Financials computed_opm=66.4 source_opm=-13084.0 category=formula discrepancy
+company_id=ICICIBANK year=2014-03 broad_sector=Financials computed_roce=-661.32 source_roce=7.6 category=formula discrepancy
+company_id=ICICIBANK year=2015-03 broad_sector=Financials computed_opm=70.53 source_opm=-16120.0 category=formula discrepancy
+company_id=ICICIBANK year=2015-03 broad_sector=Financials computed_roce=-653.12 source_roce=7.6 category=formula discrepancy
+company_id=ICICIBANK year=2016-03 broad_sector=Financials computed_opm=88.12 source_opm=-26955.0 category=formula discrepancy
+company_id=ICICIBANK year=2016-03 broad_sector=Financials computed_roce=-652.11 source_roce=7.6 category=formula discrepancy
+company_id=ICICIBANK year=2017-03 broad_sector=Financials computed_opm=104.76 source_opm=-37737.0 category=formula discrepancy
+company_id=ICICIBANK year=2017-03 broad_sector=Financials computed_roce=-603.57 source_roce=7.6 category=formula discrepancy
+company_id=ICICIBANK year=2018-03 broad_sector=Financials computed_opm=117.12 source_opm=-44906.0 category=formula discrepancy
+company_id=ICICIBANK year=2018-03 broad_sector=Financials computed_roce=-665.51 source_roce=7.6 category=formula discrepancy
+company_id=ICICIBANK year=2019-03 broad_sector=Financials computed_opm=116.38 source_opm=-50971.0 category=formula discrepancy
+company_id=ICICIBANK year=2019-03 broad_sector=Financials computed_roce=-701.28 source_roce=7.6 category=formula discrepancy
+company_id=ICICIBANK year=2020-03 broad_sector=Financials computed_opm=100.62 source_opm=-45190.0 category=formula discrepancy
+company_id=ICICIBANK year=2020-03 broad_sector=Financials computed_roce=-748.62 source_roce=7.6 category=formula discrepancy
+company_id=ICICIBANK year=2021-03 broad_sector=Financials computed_opm=102.41 source_opm=-44805.0 category=formula discrepancy
+company_id=ICICIBANK year=2021-03 broad_sector=Financials computed_roce=-637.1 source_roce=7.6 category=formula discrepancy
+company_id=ICICIBANK year=2022-03 broad_sector=Financials computed_opm=84.69 source_opm=-26558.0 category=formula discrepancy
+company_id=ICICIBANK year=2022-03 broad_sector=Financials computed_roce=-639.19 source_roce=7.6 category=formula discrepancy
+company_id=ICICIBANK year=2023-03 broad_sector=Financials computed_opm=72.57 source_opm=-17341.0 category=formula discrepancy
+company_id=ICICIBANK year=2023-03 broad_sector=Financials computed_roce=-607.38 source_roce=7.6 category=formula discrepancy
+company_id=ICICIBANK year=2024-03 broad_sector=Financials computed_opm=62.41 source_opm=-14152.0 category=formula discrepancy
+company_id=ICICIBANK year=2024-03 broad_sector=Financials computed_roce=-601.15 source_roce=7.6 category=formula discrepancy
+company_id=ICICIGI year=2013-03 broad_sector=Financials computed_opm=104.46 source_opm=-178.0 category=formula discrepancy
+company_id=ICICIGI year=2013-03 broad_sector=Financials computed_roce=218.39 source_roce=22.5 category=formula discrepancy
+company_id=ICICIGI year=2014-03 broad_sector=Financials computed_opm=105.19 source_opm=-225.0 category=formula discrepancy
+company_id=ICICIGI year=2014-03 broad_sector=Financials computed_roce=187.32 source_roce=22.5 category=formula discrepancy
+company_id=ICICIGI year=2015-03 broad_sector=Financials computed_opm=105.24 source_opm=-221.0 category=formula discrepancy
+company_id=ICICIGI year=2015-03 broad_sector=Financials computed_roce=151.56 source_roce=22.5 category=formula discrepancy
+company_id=ICICIGI year=2016-03 broad_sector=Financials computed_opm=87.34 source_opm=764.0 category=formula discrepancy
+company_id=ICICIGI year=2016-03 broad_sector=Financials computed_roce=159.96 source_roce=22.5 category=formula discrepancy
+company_id=ICICIGI year=2017-03 broad_sector=Financials computed_opm=87.78 source_opm=919.0 category=formula discrepancy
+company_id=ICICIGI year=2017-03 broad_sector=Financials computed_roce=156.5 source_roce=22.5 category=formula discrepancy
+company_id=ICICIGI year=2018-03 broad_sector=Financials computed_opm=103.79 source_opm=-262.0 category=formula discrepancy
+company_id=ICICIGI year=2018-03 broad_sector=Financials computed_roce=145.67 source_roce=22.5 category=formula discrepancy
+company_id=ICICIGI year=2019-03 broad_sector=Financials computed_opm=85.05 source_opm=1669.0 category=formula discrepancy
+company_id=ICICIGI year=2019-03 broad_sector=Financials computed_roce=166.83 source_roce=22.5 category=formula discrepancy
+company_id=ICICIGI year=2020-03 broad_sector=Financials computed_opm=84.61 source_opm=1772.0 category=formula discrepancy
+company_id=ICICIGI year=2020-03 broad_sector=Financials computed_roce=148.78 source_roce=22.5 category=formula discrepancy
+company_id=ICICIGI year=2021-03 broad_sector=Financials computed_opm=82.97 source_opm=2072.0 category=formula discrepancy
+company_id=ICICIGI year=2021-03 broad_sector=Financials computed_roce=124.27 source_roce=22.5 category=formula discrepancy
+company_id=ICICIGI year=2022-03 broad_sector=Financials computed_opm=93.66 source_opm=1016.0 category=formula discrepancy
+company_id=ICICIGI year=2022-03 broad_sector=Financials computed_roce=158.08 source_roce=22.5 category=formula discrepancy
+company_id=ICICIGI year=2023-03 broad_sector=Financials computed_opm=92.93 source_opm=1264.0 category=formula discrepancy
+company_id=ICICIGI year=2023-03 broad_sector=Financials computed_roce=156.59 source_roce=22.5 category=formula discrepancy
+company_id=ICICIGI year=2024-03 broad_sector=Financials computed_opm=87.42 source_opm=2577.0 category=formula discrepancy
+company_id=ICICIGI year=2024-03 broad_sector=Financials computed_roce=144.87 source_roce=22.5 category=formula discrepancy
+company_id=ICICIPRULI year=2013-03 broad_sector=Financials computed_opm=96.28 source_opm=745.0 category=formula discrepancy
+company_id=ICICIPRULI year=2013-03 broad_sector=Financials computed_roce=481.76 source_roce=8.75 category=formula discrepancy
+company_id=ICICIPRULI year=2014-03 broad_sector=Financials computed_opm=93.13 source_opm=1504.0 category=formula discrepancy
+company_id=ICICIPRULI year=2014-03 broad_sector=Financials computed_roce=460.14 source_roce=8.75 category=formula discrepancy
+company_id=ICICIPRULI year=2015-03 broad_sector=Financials computed_opm=95.2 source_opm=1655.0 category=formula discrepancy
+company_id=ICICIPRULI year=2015-03 broad_sector=Financials computed_roce=618.25 source_roce=8.75 category=formula discrepancy
+company_id=ICICIPRULI year=2016-03 broad_sector=Financials computed_opm=91.17 source_opm=1842.0 category=formula discrepancy
+company_id=ICICIPRULI year=2016-03 broad_sector=Financials computed_roce=337.76 source_roce=8.75 category=formula discrepancy
+company_id=ICICIPRULI year=2017-03 broad_sector=Financials computed_opm=95.22 source_opm=1806.0 category=formula discrepancy
+company_id=ICICIPRULI year=2017-03 broad_sector=Financials computed_roce=557.09 source_roce=8.75 category=formula discrepancy
+company_id=ICICIPRULI year=2018-03 broad_sector=Financials computed_opm=95.44 source_opm=1771.0 category=formula discrepancy
+company_id=ICICIPRULI year=2018-03 broad_sector=Financials computed_roce=560.02 source_roce=8.75 category=formula discrepancy
+company_id=ICICIPRULI year=2019-03 broad_sector=Financials computed_opm=98.7 source_opm=541.0 category=formula discrepancy
+company_id=ICICIPRULI year=2019-03 broad_sector=Financials computed_roce=590.68 source_roce=8.75 category=formula discrepancy
+company_id=ICICIPRULI year=2020-03 broad_sector=Financials computed_opm=101.52 source_opm=-319.0 category=formula discrepancy
+company_id=ICICIPRULI year=2020-03 broad_sector=Financials computed_roce=293.43 source_roce=8.75 category=formula discrepancy
+company_id=ICICIPRULI year=2021-03 broad_sector=Financials computed_opm=100.47 source_opm=-390.0 category=formula discrepancy
+company_id=ICICIPRULI year=2021-03 broad_sector=Financials computed_roce=898.37 source_roce=8.75 category=formula discrepancy
+company_id=ICICIPRULI year=2022-03 broad_sector=Financials computed_opm=103.4 source_opm=-2163.0 category=formula discrepancy
+company_id=ICICIPRULI year=2022-03 broad_sector=Financials computed_roce=699.49 source_roce=8.75 category=formula discrepancy
+company_id=ICICIPRULI year=2023-03 broad_sector=Financials computed_opm=103.48 source_opm=-1757.0 category=formula discrepancy
+company_id=ICICIPRULI year=2023-03 broad_sector=Financials computed_roce=501.62 source_roce=8.75 category=formula discrepancy
+company_id=ICICIPRULI year=2024-03 broad_sector=Financials computed_opm=102.03 source_opm=-1829.0 category=formula discrepancy
+company_id=ICICIPRULI year=2024-03 broad_sector=Financials computed_roce=817.92 source_roce=8.75 category=formula discrepancy
+company_id=INDIGO year=2013-03 broad_sector=Consumer Discretionary computed_opm=90.71 source_opm=855.0 category=formula discrepancy
+company_id=INDIGO year=2013-03 broad_sector=Consumer Discretionary computed_roce=9222.35 source_roce=24.5 category=formula discrepancy
+company_id=INDIGO year=2014-03 broad_sector=Consumer Discretionary computed_opm=96.11 source_opm=433.0 category=formula discrepancy
+company_id=INDIGO year=2014-03 broad_sector=Consumer Discretionary computed_roce=4631.08 source_roce=24.5 category=formula discrepancy
+company_id=INDIGO year=2015-03 broad_sector=Consumer Discretionary computed_opm=86.33 source_opm=1904.0 category=formula discrepancy
+company_id=INDIGO year=2015-03 broad_sector=Consumer Discretionary computed_roce=3659.56 source_roce=24.5 category=formula discrepancy
+company_id=INDIGO year=2016-03 broad_sector=Consumer Discretionary computed_opm=80.4 source_opm=3164.0 category=formula discrepancy
+company_id=INDIGO year=2016-03 broad_sector=Consumer Discretionary computed_roce=2044.14 source_roce=24.5 category=formula discrepancy
+company_id=INDIGO year=2017-03 broad_sector=Consumer Discretionary computed_opm=88.06 source_opm=2219.0 category=formula discrepancy
+company_id=INDIGO year=2017-03 broad_sector=Consumer Discretionary computed_roce=2938.74 source_roce=24.5 category=formula discrepancy
+company_id=INDIGO year=2018-03 broad_sector=Consumer Discretionary computed_opm=86.84 source_opm=3030.0 category=formula discrepancy
+company_id=INDIGO year=2018-03 broad_sector=Consumer Discretionary computed_roce=3712.66 source_roce=24.5 category=formula discrepancy
+company_id=INDIGO year=2019-03 broad_sector=Consumer Discretionary computed_opm=100.53 source_opm=-151.0 category=formula discrepancy
+company_id=INDIGO year=2019-03 broad_sector=Consumer Discretionary computed_roce=3212.6 source_roce=24.5 category=formula discrepancy
+company_id=INDIGO year=2020-03 broad_sector=Consumer Discretionary computed_opm=88.62 source_opm=4069.0 category=formula discrepancy
+company_id=INDIGO year=2020-03 broad_sector=Consumer Discretionary computed_roce=761.18 source_roce=24.5 category=formula discrepancy
+company_id=INDIGO year=2021-03 broad_sector=Consumer Discretionary computed_opm=99.98 source_opm=2.0 category=formula discrepancy
+company_id=INDIGO year=2021-03 broad_sector=Consumer Discretionary computed_roce=277.96 source_roce=24.5 category=formula discrepancy
+company_id=INDIGO year=2022-03 broad_sector=Consumer Discretionary computed_opm=97.85 source_opm=558.0 category=formula discrepancy
+company_id=INDIGO year=2022-03 broad_sector=Consumer Discretionary computed_roce=443.53 source_roce=24.5 category=formula discrepancy
+company_id=INDIGO year=2023-03 broad_sector=Consumer Discretionary computed_opm=88.02 source_opm=6521.0 category=formula discrepancy
+company_id=INDIGO year=2023-03 broad_sector=Consumer Discretionary computed_roce=815.14 source_roce=24.5 category=formula discrepancy
+company_id=INDIGO year=2024-03 broad_sector=Consumer Discretionary computed_opm=76.3 source_opm=16331.0 category=formula discrepancy
+company_id=INDIGO year=2024-03 broad_sector=Consumer Discretionary computed_roce=717.88 source_roce=24.5 category=formula discrepancy
+company_id=INDUSINDBK year=2013-03 broad_sector=Financials computed_opm=27.88 source_opm=286.0 category=formula discrepancy
+company_id=INDUSINDBK year=2013-03 broad_sector=Financials computed_roce=-800.06 source_roce=7.93 category=formula discrepancy
+company_id=INDUSINDBK year=2014-03 broad_sector=Financials computed_opm=30.95 source_opm=335.0 category=formula discrepancy
+company_id=INDUSINDBK year=2014-03 broad_sector=Financials computed_roce=-795.42 source_roce=7.93 category=formula discrepancy
+company_id=INDUSINDBK year=2015-03 broad_sector=Financials computed_opm=32.33 source_opm=288.0 category=formula discrepancy
+company_id=INDUSINDBK year=2015-03 broad_sector=Financials computed_roce=-850.61 source_roce=7.93 category=formula discrepancy
+company_id=INDUSINDBK year=2016-03 broad_sector=Financials computed_opm=35.28 source_opm=329.0 category=formula discrepancy
+company_id=INDUSINDBK year=2016-03 broad_sector=Financials computed_roce=-637.47 source_roce=7.93 category=formula discrepancy
+company_id=INDUSINDBK year=2017-03 broad_sector=Financials computed_opm=39.46 source_opm=379.0 category=formula discrepancy
+company_id=INDUSINDBK year=2017-03 broad_sector=Financials computed_roce=-687.92 source_roce=7.93 category=formula discrepancy
+company_id=INDUSINDBK year=2018-03 broad_sector=Financials computed_opm=37.93 source_opm=942.0 category=formula discrepancy
+company_id=INDUSINDBK year=2018-03 broad_sector=Financials computed_roce=-762.37 source_roce=7.93 category=formula discrepancy
+company_id=INDUSINDBK year=2019-03 broad_sector=Financials computed_opm=41.7 source_opm=-437.0 category=formula discrepancy
+company_id=INDUSINDBK year=2019-03 broad_sector=Financials computed_roce=-865.34 source_roce=7.93 category=formula discrepancy
+company_id=INDUSINDBK year=2020-03 broad_sector=Financials computed_opm=43.81 source_opm=-553.0 category=formula discrepancy
+company_id=INDUSINDBK year=2020-03 broad_sector=Financials computed_roce=-715.11 source_roce=7.93 category=formula discrepancy
+company_id=INDUSINDBK year=2021-03 broad_sector=Financials computed_opm=55.16 source_opm=-2469.0 category=formula discrepancy
+company_id=INDUSINDBK year=2021-03 broad_sector=Financials computed_roce=-667.58 source_roce=7.93 category=formula discrepancy
+company_id=INDUSINDBK year=2022-03 broad_sector=Financials computed_opm=51.39 source_opm=-839.0 category=formula discrepancy
+company_id=INDUSINDBK year=2022-03 broad_sector=Financials computed_roce=-677.16 source_roce=7.93 category=formula discrepancy
+company_id=INDUSINDBK year=2023-03 broad_sector=Financials computed_opm=42.69 source_opm=2067.0 category=formula discrepancy
+company_id=INDUSINDBK year=2023-03 broad_sector=Financials computed_roce=-672.65 source_roce=7.93 category=formula discrepancy
+company_id=INDUSINDBK year=2024-03 broad_sector=Financials computed_opm=38.55 source_opm=2978.0 category=formula discrepancy
+company_id=INDUSINDBK year=2024-03 broad_sector=Financials computed_roce=-656.05 source_roce=7.93 category=formula discrepancy
+company_id=INFY year=2013-03 broad_sector=Information Technology computed_roce=29.51 source_roce=40.0 category=formula discrepancy
+company_id=INFY year=2014-03 broad_sector=Information Technology computed_roce=29.21 source_roce=40.0 category=formula discrepancy
+company_id=INFY year=2015-03 broad_sector=Information Technology computed_roce=28.76 source_roce=40.0 category=formula discrepancy
+company_id=INFY year=2016-03 broad_sector=Information Technology computed_roce=27.02 source_roce=40.0 category=formula discrepancy
+company_id=INFY year=2017-03 broad_sector=Information Technology computed_roce=26.32 source_roce=40.0 category=formula discrepancy
+company_id=INFY year=2018-03 broad_sector=Information Technology computed_roce=28.18 source_roce=40.0 category=formula discrepancy
+company_id=INFY year=2019-03 broad_sector=Information Technology computed_roce=30.12 source_roce=40.0 category=formula discrepancy
+company_id=INFY year=2020-03 broad_sector=Information Technology computed_roce=25.8 source_roce=40.0 category=formula discrepancy
+company_id=INFY year=2021-03 broad_sector=Information Technology computed_roce=28.34 source_roce=40.0 category=formula discrepancy
+company_id=INFY year=2022-03 broad_sector=Information Technology computed_roce=33.01 source_roce=40.0 category=formula discrepancy
+company_id=INFY year=2023-03 broad_sector=Information Technology computed_roce=33.69 source_roce=40.0 category=formula discrepancy
+company_id=INFY year=2024-03 broad_sector=Information Technology computed_roce=30.25 source_roce=40.0 category=formula discrepancy
+company_id=IOC year=2013-03 broad_sector=Energy computed_roce=-110.3 source_roce=21.31 category=formula discrepancy
+company_id=IOC year=2014-03 broad_sector=Energy computed_roce=-104.61 source_roce=21.31 category=formula discrepancy
+company_id=IOC year=2015-03 broad_sector=Energy computed_roce=-73.35 source_roce=21.31 category=formula discrepancy
+company_id=IOC year=2016-03 broad_sector=Energy computed_roce=-38.16 source_roce=21.31 category=formula discrepancy
+company_id=IOC year=2017-03 broad_sector=Energy computed_roce=-26.74 source_roce=21.31 category=formula discrepancy
+company_id=IOC year=2018-03 broad_sector=Energy computed_roce=-19.74 source_roce=21.31 category=formula discrepancy
+company_id=IOC year=2019-03 broad_sector=Energy computed_roce=-50.84 source_roce=21.31 category=formula discrepancy
+company_id=IOC year=2020-03 broad_sector=Energy computed_roce=-107.63 source_roce=21.31 category=formula discrepancy
+company_id=IOC year=2021-03 broad_sector=Energy computed_roce=-62.49 source_roce=21.31 category=formula discrepancy
+company_id=IOC year=2022-03 broad_sector=Energy computed_roce=-57.76 source_roce=21.31 category=formula discrepancy
+company_id=IOC year=2023-03 broad_sector=Energy computed_roce=-77.37 source_roce=21.31 category=formula discrepancy
+company_id=IOC year=2024-03 broad_sector=Energy computed_roce=-28.59 source_roce=21.31 category=formula discrepancy
+company_id=IRCTC year=2015-03 broad_sector=Consumer Discretionary computed_roce=32.76 source_roce=53.8 category=formula discrepancy
+company_id=IRCTC year=2016-03 broad_sector=Consumer Discretionary computed_roce=33.75 source_roce=53.8 category=formula discrepancy
+company_id=IRCTC year=2017-03 broad_sector=Consumer Discretionary computed_roce=38.81 source_roce=53.8 category=formula discrepancy
+company_id=IRCTC year=2018-03 broad_sector=Consumer Discretionary computed_roce=27.99 source_roce=53.8 category=formula discrepancy
+company_id=IRCTC year=2019-03 broad_sector=Consumer Discretionary computed_roce=34.82 source_roce=53.8 category=formula discrepancy
+company_id=IRCTC year=2021-03 broad_sector=Consumer Discretionary computed_roce=7.26 source_roce=53.8 category=formula discrepancy
+company_id=IRCTC year=2022-03 broad_sector=Consumer Discretionary computed_roce=40.07 source_roce=53.8 category=formula discrepancy
+company_id=IRCTC year=2023-03 broad_sector=Consumer Discretionary computed_roce=47.08 source_roce=53.8 category=formula discrepancy
+company_id=IRCTC year=2024-03 broad_sector=Consumer Discretionary computed_roce=42.77 source_roce=53.8 category=formula discrepancy
+company_id=IRFC year=2013-03 broad_sector=Financials computed_roce=-832.42 source_roce=5.73 category=formula discrepancy
+company_id=IRFC year=2014-03 broad_sector=Financials computed_roce=-842.89 source_roce=5.73 category=formula discrepancy
+company_id=IRFC year=2015-03 broad_sector=Financials computed_roce=-741.36 source_roce=5.73 category=formula discrepancy
+company_id=IRFC year=2016-03 broad_sector=Financials computed_roce=-694.45 source_roce=5.73 category=formula discrepancy
+company_id=IRFC year=2017-03 broad_sector=Financials computed_roce=-810.84 source_roce=5.73 category=formula discrepancy
+company_id=IRFC year=2018-03 broad_sector=Financials computed_roce=-895.87 source_roce=5.73 category=formula discrepancy
+company_id=IRFC year=2019-03 broad_sector=Financials computed_roce=-650.66 source_roce=5.73 category=formula discrepancy
+company_id=IRFC year=2020-03 broad_sector=Financials computed_roce=-729.47 source_roce=5.73 category=formula discrepancy
+company_id=IRFC year=2021-03 broad_sector=Financials computed_roce=-856.08 source_roce=5.73 category=formula discrepancy
+company_id=IRFC year=2022-03 broad_sector=Financials computed_roce=-897.96 source_roce=5.73 category=formula discrepancy
+company_id=IRFC year=2023-03 broad_sector=Financials computed_roce=-884.54 source_roce=5.73 category=formula discrepancy
+company_id=IRFC year=2024-03 broad_sector=Financials computed_roce=-783.78 source_roce=5.73 category=formula discrepancy
+company_id=ITC year=2013-03 broad_sector=Consumer Staples computed_roce=46.3 source_roce=34.76 category=formula discrepancy
+company_id=ITC year=2014-03 broad_sector=Consumer Staples computed_roce=45.52 source_roce=34.76 category=formula discrepancy
+company_id=ITC year=2015-03 broad_sector=Consumer Staples computed_roce=42.68 source_roce=34.76 category=formula discrepancy
+company_id=ITC year=2020-03 broad_sector=Consumer Staples computed_roce=28.49 source_roce=34.76 category=formula discrepancy
+company_id=ITC year=2021-03 broad_sector=Consumer Staples computed_roce=27.09 source_roce=34.76 category=formula discrepancy
+company_id=JINDALSTEL year=2013-03 broad_sector=Materials computed_roce=-81.23 source_roce=13.2 category=formula discrepancy
+company_id=JINDALSTEL year=2014-03 broad_sector=Materials computed_roce=-125.08 source_roce=13.2 category=formula discrepancy
+company_id=JINDALSTEL year=2015-03 broad_sector=Materials computed_roce=-168.4 source_roce=13.2 category=formula discrepancy
+company_id=JINDALSTEL year=2016-03 broad_sector=Materials computed_roce=-118.78 source_roce=13.2 category=formula discrepancy
+company_id=JINDALSTEL year=2017-03 broad_sector=Materials computed_roce=-121.0 source_roce=13.2 category=formula discrepancy
+company_id=JINDALSTEL year=2018-03 broad_sector=Materials computed_roce=-106.49 source_roce=13.2 category=formula discrepancy
+company_id=JINDALSTEL year=2019-03 broad_sector=Materials computed_roce=-82.91 source_roce=13.2 category=formula discrepancy
+company_id=JINDALSTEL year=2020-03 broad_sector=Materials computed_roce=-84.33 source_roce=13.2 category=formula discrepancy
+company_id=JINDALSTEL year=2021-03 broad_sector=Materials computed_roce=-55.44 source_roce=13.2 category=formula discrepancy
+company_id=JINDALSTEL year=2022-03 broad_sector=Materials computed_roce=5.34 source_roce=13.2 category=formula discrepancy
+company_id=JINDALSTEL year=2023-03 broad_sector=Materials computed_roce=-7.5 source_roce=13.2 category=formula discrepancy
+company_id=JINDALSTEL year=2024-03 broad_sector=Materials computed_roce=-13.3 source_roce=13.2 category=formula discrepancy
+company_id=JIOFIN year=2023-03 broad_sector=Financials computed_opm=86.67 source_opm=88.0 category=formula discrepancy
+company_id=JSWENERGY year=2013-03 broad_sector=Energy computed_roce=-110.34 source_roce=8.59 category=formula discrepancy
+company_id=JSWENERGY year=2014-03 broad_sector=Energy computed_roce=-92.82 source_roce=8.59 category=formula discrepancy
+company_id=JSWENERGY year=2015-03 broad_sector=Energy computed_roce=-68.25 source_roce=8.59 category=formula discrepancy
+company_id=JSWENERGY year=2016-03 broad_sector=Energy computed_roce=-102.6 source_roce=8.59 category=formula discrepancy
+company_id=JSWENERGY year=2017-03 broad_sector=Energy computed_roce=-97.24 source_roce=8.59 category=formula discrepancy
+company_id=JSWENERGY year=2018-03 broad_sector=Energy computed_roce=-75.94 source_roce=8.59 category=formula discrepancy
+company_id=JSWENERGY year=2019-03 broad_sector=Energy computed_roce=-59.29 source_roce=8.59 category=formula discrepancy
+company_id=JSWENERGY year=2020-03 broad_sector=Energy computed_roce=-51.43 source_roce=8.59 category=formula discrepancy
+company_id=JSWENERGY year=2021-03 broad_sector=Energy computed_roce=-34.82 source_roce=8.59 category=formula discrepancy
+company_id=JSWENERGY year=2022-03 broad_sector=Energy computed_roce=-28.96 source_roce=8.59 category=formula discrepancy
+company_id=JSWENERGY year=2023-03 broad_sector=Energy computed_roce=-109.96 source_roce=8.59 category=formula discrepancy
+company_id=JSWENERGY year=2024-03 broad_sector=Energy computed_roce=-116.59 source_roce=8.59 category=formula discrepancy
+company_id=JSWSTEEL year=2013-03 broad_sector=Materials computed_roce=-78.3 source_roce=13.36 category=formula discrepancy
+company_id=JSWSTEEL year=2014-03 broad_sector=Materials computed_roce=-108.22 source_roce=13.36 category=formula discrepancy
+company_id=JSWSTEEL year=2015-03 broad_sector=Materials computed_roce=-114.25 source_roce=13.36 category=formula discrepancy
+company_id=JSWSTEEL year=2016-03 broad_sector=Materials computed_roce=-160.54 source_roce=13.36 category=formula discrepancy
+company_id=JSWSTEEL year=2017-03 broad_sector=Materials computed_roce=-118.98 source_roce=13.36 category=formula discrepancy
+company_id=JSWSTEEL year=2018-03 broad_sector=Materials computed_roce=-77.99 source_roce=13.36 category=formula discrepancy
+company_id=JSWSTEEL year=2019-03 broad_sector=Materials computed_roce=-73.3 source_roce=13.36 category=formula discrepancy
+company_id=JSWSTEEL year=2020-03 broad_sector=Materials computed_roce=-121.46 source_roce=13.36 category=formula discrepancy
+company_id=JSWSTEEL year=2021-03 broad_sector=Materials computed_roce=-82.06 source_roce=13.36 category=formula discrepancy
+company_id=JSWSTEEL year=2022-03 broad_sector=Materials computed_roce=-45.19 source_roce=13.36 category=formula discrepancy
+company_id=JSWSTEEL year=2023-03 broad_sector=Materials computed_roce=-85.26 source_roce=13.36 category=formula discrepancy
+company_id=JSWSTEEL year=2024-03 broad_sector=Materials computed_roce=-69.7 source_roce=13.36 category=formula discrepancy
+company_id=KOTAKBANK year=2013-03 broad_sector=Financials computed_opm=60.92 source_opm=-1789.0 category=formula discrepancy
+company_id=KOTAKBANK year=2013-03 broad_sector=Financials computed_roce=-511.19 source_roce=7.86 category=formula discrepancy
+company_id=KOTAKBANK year=2014-03 broad_sector=Financials computed_opm=58.84 source_opm=-1379.0 category=formula discrepancy
+company_id=KOTAKBANK year=2014-03 broad_sector=Financials computed_roce=-408.89 source_roce=7.86 category=formula discrepancy
+company_id=KOTAKBANK year=2015-03 broad_sector=Financials computed_opm=72.96 source_opm=-3366.0 category=formula discrepancy
+company_id=KOTAKBANK year=2015-03 broad_sector=Financials computed_roce=-422.19 source_roce=7.86 category=formula discrepancy
+company_id=KOTAKBANK year=2016-03 broad_sector=Financials computed_opm=56.57 source_opm=-2263.0 category=formula discrepancy
+company_id=KOTAKBANK year=2016-03 broad_sector=Financials computed_roce=-498.79 source_roce=7.86 category=formula discrepancy
+company_id=KOTAKBANK year=2017-03 broad_sector=Financials computed_opm=66.44 source_opm=-3965.0 category=formula discrepancy
+company_id=KOTAKBANK year=2017-03 broad_sector=Financials computed_roce=-490.03 source_roce=7.86 category=formula discrepancy
+company_id=KOTAKBANK year=2018-03 broad_sector=Financials computed_opm=66.87 source_opm=-4141.0 category=formula discrepancy
+company_id=KOTAKBANK year=2018-03 broad_sector=Financials computed_roce=-458.09 source_roce=7.86 category=formula discrepancy
+company_id=KOTAKBANK year=2019-03 broad_sector=Financials computed_opm=66.23 source_opm=-5114.0 category=formula discrepancy
+company_id=KOTAKBANK year=2019-03 broad_sector=Financials computed_roce=-467.05 source_roce=7.86 category=formula discrepancy
+company_id=KOTAKBANK year=2020-03 broad_sector=Financials computed_opm=67.45 source_opm=-5005.0 category=formula discrepancy
+company_id=KOTAKBANK year=2020-03 broad_sector=Financials computed_roce=-452.89 source_roce=7.86 category=formula discrepancy
+company_id=KOTAKBANK year=2021-03 broad_sector=Financials computed_opm=90.83 source_opm=-9958.0 category=formula discrepancy
+company_id=KOTAKBANK year=2021-03 broad_sector=Financials computed_roce=-350.59 source_roce=7.86 category=formula discrepancy
+company_id=KOTAKBANK year=2022-03 broad_sector=Financials computed_opm=90.98 source_opm=-8512.0 category=formula discrepancy
+company_id=KOTAKBANK year=2022-03 broad_sector=Financials computed_roce=-344.89 source_roce=7.86 category=formula discrepancy
+company_id=KOTAKBANK year=2023-03 broad_sector=Financials computed_opm=79.44 source_opm=-5746.0 category=formula discrepancy
+company_id=KOTAKBANK year=2023-03 broad_sector=Financials computed_roce=-342.77 source_roce=7.86 category=formula discrepancy
+company_id=KOTAKBANK year=2024-03 broad_sector=Financials computed_opm=83.67 source_opm=-13382.0 category=formula discrepancy
+company_id=KOTAKBANK year=2024-03 broad_sector=Financials computed_roce=-361.97 source_roce=7.86 category=formula discrepancy
+company_id=LICI year=2019-03 broad_sector=Financials computed_roce=-22991.36 source_roce=63.79 category=formula discrepancy
+company_id=LICI year=2020-03 broad_sector=Financials computed_roce=-18853.08 source_roce=63.79 category=formula discrepancy
+company_id=LICI year=2021-03 broad_sector=Financials computed_roce=-3.51 source_roce=63.79 category=formula discrepancy
+company_id=LICI year=2022-03 broad_sector=Financials computed_roce=28.24 source_roce=63.79 category=formula discrepancy
+company_id=LICI year=2023-03 broad_sector=Financials computed_roce=73.25 source_roce=63.79 category=formula discrepancy
+company_id=LICI year=2024-03 broad_sector=Financials computed_roce=39.39 source_roce=63.79 category=formula discrepancy
+company_id=LODHA year=2011-03 broad_sector=Real Estate computed_roce=-668.33 source_roce=11.1 category=formula discrepancy
+company_id=LODHA year=2012-03 broad_sector=Real Estate computed_roce=-303.96 source_roce=11.1 category=formula discrepancy
+company_id=LODHA year=2015-03 broad_sector=Real Estate computed_roce=-303.48 source_roce=11.1 category=formula discrepancy
+company_id=LODHA year=2016-03 broad_sector=Real Estate computed_roce=-264.73 source_roce=11.1 category=formula discrepancy
+company_id=LODHA year=2017-03 broad_sector=Real Estate computed_roce=-324.26 source_roce=11.1 category=formula discrepancy
+company_id=LODHA year=2018-03 broad_sector=Real Estate computed_roce=-377.39 source_roce=11.1 category=formula discrepancy
+company_id=LODHA year=2019-03 broad_sector=Real Estate computed_roce=-556.68 source_roce=11.1 category=formula discrepancy
+company_id=LODHA year=2020-03 broad_sector=Real Estate computed_roce=-340.75 source_roce=11.1 category=formula discrepancy
+company_id=LODHA year=2021-03 broad_sector=Real Estate computed_roce=-359.8 source_roce=11.1 category=formula discrepancy
+company_id=LODHA year=2022-03 broad_sector=Real Estate computed_roce=-76.77 source_roce=11.1 category=formula discrepancy
+company_id=LODHA year=2023-03 broad_sector=Real Estate computed_roce=-54.84 source_roce=11.1 category=formula discrepancy
+company_id=LODHA year=2024-03 broad_sector=Real Estate computed_roce=-28.48 source_roce=11.1 category=formula discrepancy
+company_id=LT year=2013-03 broad_sector=Industrials computed_roce=375.0 source_roce=17.18 category=formula discrepancy
+company_id=LT year=2014-03 broad_sector=Industrials computed_roce=457.33 source_roce=17.18 category=formula discrepancy
+company_id=LT year=2015-03 broad_sector=Industrials computed_roce=332.67 source_roce=17.18 category=formula discrepancy
+company_id=LT year=2016-03 broad_sector=Industrials computed_roce=394.45 source_roce=17.18 category=formula discrepancy
+company_id=LT year=2017-03 broad_sector=Industrials computed_roce=301.41 source_roce=17.18 category=formula discrepancy
+company_id=LT year=2018-03 broad_sector=Industrials computed_roce=330.61 source_roce=17.18 category=formula discrepancy
+company_id=LT year=2019-03 broad_sector=Industrials computed_roce=335.48 source_roce=17.18 category=formula discrepancy
+company_id=LT year=2020-03 broad_sector=Industrials computed_roce=300.55 source_roce=17.18 category=formula discrepancy
+company_id=LT year=2021-03 broad_sector=Industrials computed_roce=222.0 source_roce=17.18 category=formula discrepancy
+company_id=LT year=2022-03 broad_sector=Industrials computed_roce=139.57 source_roce=17.18 category=formula discrepancy
+company_id=LT year=2023-03 broad_sector=Industrials computed_roce=127.53 source_roce=17.18 category=formula discrepancy
+company_id=LT year=2024-03 broad_sector=Industrials computed_roce=117.27 source_roce=17.18 category=formula discrepancy
+company_id=LTIM year=2013-03 broad_sector=Information Technology computed_roce=43.5 source_roce=34.1 category=formula discrepancy
+company_id=LTIM year=2014-03 broad_sector=Information Technology computed_roce=59.6 source_roce=34.1 category=formula discrepancy
+company_id=LTIM year=2016-03 broad_sector=Information Technology computed_roce=42.32 source_roce=34.1 category=formula discrepancy
+company_id=LTIM year=2020-03 broad_sector=Information Technology computed_roce=19.68 source_roce=34.1 category=formula discrepancy
+company_id=LTIM year=2021-03 broad_sector=Information Technology computed_roce=25.24 source_roce=34.1 category=formula discrepancy
+company_id=LTIM year=2023-03 broad_sector=Information Technology computed_roce=26.38 source_roce=34.1 category=formula discrepancy
+company_id=LTIM year=2024-03 broad_sector=Information Technology computed_roce=20.71 source_roce=34.1 category=formula discrepancy
+company_id=M&M year=2013-03 broad_sector=Consumer Discretionary computed_roce=-88.9 source_roce=26.98 category=formula discrepancy
+company_id=M&M year=2014-03 broad_sector=Consumer Discretionary computed_roce=-98.12 source_roce=26.98 category=formula discrepancy
+company_id=M&M year=2015-03 broad_sector=Consumer Discretionary computed_roce=-104.06 source_roce=26.98 category=formula discrepancy
+company_id=M&M year=2016-03 broad_sector=Consumer Discretionary computed_roce=-108.77 source_roce=26.98 category=formula discrepancy
+company_id=M&M year=2017-03 broad_sector=Consumer Discretionary computed_roce=-116.68 source_roce=26.98 category=formula discrepancy
+company_id=M&M year=2018-03 broad_sector=Consumer Discretionary computed_roce=-106.53 source_roce=26.98 category=formula discrepancy
+company_id=M&M year=2019-03 broad_sector=Consumer Discretionary computed_roce=-126.53 source_roce=26.98 category=formula discrepancy
+company_id=M&M year=2020-03 broad_sector=Consumer Discretionary computed_roce=-165.99 source_roce=26.98 category=formula discrepancy
+company_id=M&M year=2021-03 broad_sector=Consumer Discretionary computed_roce=-153.78 source_roce=26.98 category=formula discrepancy
+company_id=M&M year=2022-03 broad_sector=Consumer Discretionary computed_roce=-124.28 source_roce=26.98 category=formula discrepancy
+company_id=M&M year=2023-03 broad_sector=Consumer Discretionary computed_roce=-118.51 source_roce=26.98 category=formula discrepancy
+company_id=M&M year=2024-03 broad_sector=Consumer Discretionary computed_roce=-118.11 source_roce=26.98 category=formula discrepancy
+company_id=MARUTI year=2013-03 broad_sector=Consumer Discretionary computed_roce=13.35 source_roce=23.67 category=formula discrepancy
+company_id=MARUTI year=2014-03 broad_sector=Consumer Discretionary computed_roce=14.0 source_roce=23.67 category=formula discrepancy
+company_id=MARUTI year=2020-03 broad_sector=Consumer Discretionary computed_roce=13.55 source_roce=23.67 category=formula discrepancy
+company_id=MARUTI year=2021-03 broad_sector=Consumer Discretionary computed_roce=8.77 source_roce=23.67 category=formula discrepancy
+company_id=MARUTI year=2022-03 broad_sector=Consumer Discretionary computed_roce=9.16 source_roce=23.67 category=formula discrepancy
+company_id=MARUTI year=2023-03 broad_sector=Consumer Discretionary computed_roce=14.95 source_roce=23.67 category=formula discrepancy
+company_id=MOTHERSON year=2013-03 broad_sector=Consumer Discretionary computed_roce=-114.02 source_roce=13.7 category=formula discrepancy
+company_id=MOTHERSON year=2014-03 broad_sector=Consumer Discretionary computed_roce=-64.7 source_roce=13.7 category=formula discrepancy
+company_id=MOTHERSON year=2015-03 broad_sector=Consumer Discretionary computed_roce=-53.88 source_roce=13.7 category=formula discrepancy
+company_id=MOTHERSON year=2016-03 broad_sector=Consumer Discretionary computed_roce=-45.97 source_roce=13.7 category=formula discrepancy
+company_id=MOTHERSON year=2017-03 broad_sector=Consumer Discretionary computed_roce=-66.21 source_roce=13.7 category=formula discrepancy
+company_id=MOTHERSON year=2018-03 broad_sector=Consumer Discretionary computed_roce=-45.78 source_roce=13.7 category=formula discrepancy
+company_id=MOTHERSON year=2019-03 broad_sector=Consumer Discretionary computed_roce=-47.51 source_roce=13.7 category=formula discrepancy
+company_id=MOTHERSON year=2020-03 broad_sector=Consumer Discretionary computed_roce=-60.66 source_roce=13.7 category=formula discrepancy
+company_id=MOTHERSON year=2021-03 broad_sector=Consumer Discretionary computed_roce=-48.82 source_roce=13.7 category=formula discrepancy
+company_id=MOTHERSON year=2022-03 broad_sector=Consumer Discretionary computed_roce=-39.99 source_roce=13.7 category=formula discrepancy
+company_id=MOTHERSON year=2023-03 broad_sector=Consumer Discretionary computed_roce=-29.47 source_roce=13.7 category=formula discrepancy
+company_id=MOTHERSON year=2024-03 broad_sector=Consumer Discretionary computed_roce=-35.37 source_roce=13.7 category=formula discrepancy
+company_id=NAUKRI year=2013-03 broad_sector=Communication Services computed_roce=19.35 source_roce=3.65 category=formula discrepancy
+company_id=NAUKRI year=2014-03 broad_sector=Communication Services computed_roce=13.85 source_roce=3.65 category=formula discrepancy
+company_id=NAUKRI year=2018-03 broad_sector=Communication Services computed_roce=10.51 source_roce=3.65 category=formula discrepancy
+company_id=NAUKRI year=2020-03 broad_sector=Communication Services computed_roce=-19.04 source_roce=3.65 category=formula discrepancy
+company_id=NESTLEIND year=2013-12 broad_sector=Consumer Staples computed_roce=28.13 source_roce=185.43 category=formula discrepancy
+company_id=NESTLEIND year=2014-12 broad_sector=Consumer Staples computed_roce=63.59 source_roce=185.43 category=formula discrepancy
+company_id=NESTLEIND year=2015-12 broad_sector=Consumer Staples computed_roce=48.58 source_roce=185.43 category=formula discrepancy
+company_id=NESTLEIND year=2016-12 broad_sector=Consumer Staples computed_roce=49.97 source_roce=185.43 category=formula discrepancy
+company_id=NESTLEIND year=2017-12 broad_sector=Consumer Staples computed_roce=54.81 source_roce=185.43 category=formula discrepancy
+company_id=NESTLEIND year=2018-12 broad_sector=Consumer Staples computed_roce=64.43 source_roce=185.43 category=formula discrepancy
+company_id=NESTLEIND year=2019-12 broad_sector=Consumer Staples computed_roce=119.62 source_roce=185.43 category=formula discrepancy
+company_id=NESTLEIND year=2020-12 broad_sector=Consumer Staples computed_roce=127.88 source_roce=185.43 category=formula discrepancy
+company_id=NESTLEIND year=2021-12 broad_sector=Consumer Staples computed_roce=141.04 source_roce=185.43 category=formula discrepancy
+company_id=NESTLEIND year=2022-12 broad_sector=Consumer Staples computed_roce=120.02 source_roce=185.43 category=formula discrepancy
+company_id=NESTLEIND year=2023-12 broad_sector=Consumer Staples computed_roce=145.43 source_roce=185.43 category=formula discrepancy
+company_id=NESTLEIND year=2024-03 broad_sector=Consumer Staples computed_roce=141.0 source_roce=185.43 category=formula discrepancy
+company_id=NHPC year=2013-03 broad_sector=Energy computed_roce=-52.16 source_roce=7.67 category=formula discrepancy
+company_id=NHPC year=2014-03 broad_sector=Energy computed_roce=-55.39 source_roce=7.67 category=formula discrepancy
+company_id=NHPC year=2015-03 broad_sector=Energy computed_roce=-47.58 source_roce=7.67 category=formula discrepancy
+company_id=NHPC year=2016-03 broad_sector=Energy computed_roce=-45.82 source_roce=7.67 category=formula discrepancy
+company_id=NHPC year=2017-03 broad_sector=Energy computed_roce=-47.06 source_roce=7.67 category=formula discrepancy
+company_id=NHPC year=2018-03 broad_sector=Energy computed_roce=-45.55 source_roce=7.67 category=formula discrepancy
+company_id=NHPC year=2019-03 broad_sector=Energy computed_roce=-43.4 source_roce=7.67 category=formula discrepancy
+company_id=NHPC year=2020-03 broad_sector=Energy computed_roce=-53.89 source_roce=7.67 category=formula discrepancy
+company_id=NHPC year=2021-03 broad_sector=Energy computed_roce=-52.67 source_roce=7.67 category=formula discrepancy
+company_id=NHPC year=2022-03 broad_sector=Energy computed_roce=-61.15 source_roce=7.67 category=formula discrepancy
+company_id=NHPC year=2023-03 broad_sector=Energy computed_roce=-61.18 source_roce=7.67 category=formula discrepancy
+company_id=NHPC year=2024-03 broad_sector=Energy computed_roce=-69.58 source_roce=7.67 category=formula discrepancy
+company_id=NTPC year=2013-03 broad_sector=Energy computed_roce=-61.45 source_roce=10.58 category=formula discrepancy
+company_id=NTPC year=2014-03 broad_sector=Energy computed_roce=-67.02 source_roce=10.58 category=formula discrepancy
+company_id=NTPC year=2015-03 broad_sector=Energy computed_roce=-96.85 source_roce=10.58 category=formula discrepancy
+company_id=NTPC year=2016-03 broad_sector=Energy computed_roce=-83.06 source_roce=10.58 category=formula discrepancy
+company_id=NTPC year=2017-03 broad_sector=Energy computed_roce=-88.76 source_roce=10.58 category=formula discrepancy
+company_id=NTPC year=2018-03 broad_sector=Energy computed_roce=-96.88 source_roce=10.58 category=formula discrepancy
+company_id=NTPC year=2019-03 broad_sector=Energy computed_roce=-125.26 source_roce=10.58 category=formula discrepancy
+company_id=NTPC year=2020-03 broad_sector=Energy computed_roce=-132.67 source_roce=10.58 category=formula discrepancy
+company_id=NTPC year=2021-03 broad_sector=Energy computed_roce=-127.48 source_roce=10.58 category=formula discrepancy
+company_id=NTPC year=2022-03 broad_sector=Energy computed_roce=-114.2 source_roce=10.58 category=formula discrepancy
+company_id=NTPC year=2023-03 broad_sector=Energy computed_roce=-108.34 source_roce=10.58 category=formula discrepancy
+company_id=NTPC year=2024-03 broad_sector=Energy computed_roce=-104.95 source_roce=10.58 category=formula discrepancy
+company_id=ONGC year=2013-03 broad_sector=Energy computed_roce=13.89 source_roce=19.71 category=formula discrepancy
+company_id=ONGC year=2014-03 broad_sector=Energy computed_roce=0.01 source_roce=19.71 category=formula discrepancy
+company_id=ONGC year=2015-03 broad_sector=Energy computed_roce=-5.86 source_roce=19.71 category=formula discrepancy
+company_id=ONGC year=2016-03 broad_sector=Energy computed_roce=-2.97 source_roce=19.71 category=formula discrepancy
+company_id=ONGC year=2017-03 broad_sector=Energy computed_roce=-12.69 source_roce=19.71 category=formula discrepancy
+company_id=ONGC year=2018-03 broad_sector=Energy computed_roce=-21.86 source_roce=19.71 category=formula discrepancy
+company_id=ONGC year=2019-03 broad_sector=Energy computed_roce=-13.68 source_roce=19.71 category=formula discrepancy
+company_id=ONGC year=2020-03 broad_sector=Energy computed_roce=-33.39 source_roce=19.71 category=formula discrepancy
+company_id=ONGC year=2021-03 broad_sector=Energy computed_roce=-33.96 source_roce=19.71 category=formula discrepancy
+company_id=ONGC year=2022-03 broad_sector=Energy computed_roce=-14.7 source_roce=19.71 category=formula discrepancy
+company_id=ONGC year=2023-03 broad_sector=Energy computed_roce=-21.86 source_roce=19.71 category=formula discrepancy
+company_id=ONGC year=2024-03 broad_sector=Energy computed_roce=-13.76 source_roce=19.71 category=formula discrepancy
+company_id=PFC year=2013-03 broad_sector=Financials computed_roce=-563.56 source_roce=9.96 category=formula discrepancy
+company_id=PFC year=2014-03 broad_sector=Financials computed_roce=-550.76 source_roce=9.96 category=formula discrepancy
+company_id=PFC year=2015-03 broad_sector=Financials computed_roce=-553.27 source_roce=9.96 category=formula discrepancy
+company_id=PFC year=2016-03 broad_sector=Financials computed_roce=-531.23 source_roce=9.96 category=formula discrepancy
+company_id=PFC year=2017-03 broad_sector=Financials computed_roce=-536.02 source_roce=9.96 category=formula discrepancy
+company_id=PFC year=2018-03 broad_sector=Financials computed_roce=-1077.57 source_roce=9.96 category=formula discrepancy
+company_id=PFC year=2019-03 broad_sector=Financials computed_roce=-1106.81 source_roce=9.96 category=formula discrepancy
+company_id=PFC year=2020-03 broad_sector=Financials computed_roce=-1178.68 source_roce=9.96 category=formula discrepancy
+company_id=PFC year=2021-03 broad_sector=Financials computed_roce=-1052.46 source_roce=9.96 category=formula discrepancy
+company_id=PFC year=2022-03 broad_sector=Financials computed_roce=-888.48 source_roce=9.96 category=formula discrepancy
+company_id=PFC year=2023-03 broad_sector=Financials computed_roce=-860.54 source_roce=9.96 category=formula discrepancy
+company_id=PFC year=2024-03 broad_sector=Financials computed_roce=-818.57 source_roce=9.96 category=formula discrepancy
+company_id=PIDILITIND year=2016-03 broad_sector=Materials computed_roce=39.92 source_roce=29.7 category=formula discrepancy
+company_id=PIDILITIND year=2021-03 broad_sector=Materials computed_roce=23.39 source_roce=29.7 category=formula discrepancy
+company_id=PIDILITIND year=2022-03 broad_sector=Materials computed_roce=21.67 source_roce=29.7 category=formula discrepancy
+company_id=PIDILITIND year=2023-03 broad_sector=Materials computed_roce=21.32 source_roce=29.7 category=formula discrepancy
+company_id=POWERGRID year=2013-03 broad_sector=Energy computed_roce=-195.76 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2013-03 broad_sector=Energy computed_roce=-195.76 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2014-03 broad_sector=Energy computed_roce=-183.75 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2014-03 broad_sector=Energy computed_roce=-183.75 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2015-03 broad_sector=Energy computed_roce=-186.45 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2015-03 broad_sector=Energy computed_roce=-186.45 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2016-03 broad_sector=Energy computed_roce=-180.17 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2016-03 broad_sector=Energy computed_roce=-180.17 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2017-03 broad_sector=Energy computed_roce=-167.64 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2017-03 broad_sector=Energy computed_roce=-167.64 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2018-03 broad_sector=Energy computed_roce=-165.8 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2018-03 broad_sector=Energy computed_roce=-165.8 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2019-03 broad_sector=Energy computed_roce=-171.56 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2019-03 broad_sector=Energy computed_roce=-171.56 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2020-03 broad_sector=Energy computed_roce=-151.22 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2020-03 broad_sector=Energy computed_roce=-151.22 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2021-03 broad_sector=Energy computed_roce=-132.15 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2021-03 broad_sector=Energy computed_roce=-132.15 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2022-03 broad_sector=Energy computed_roce=-110.94 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2022-03 broad_sector=Energy computed_roce=-110.94 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2023-03 broad_sector=Energy computed_roce=-92.37 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2023-03 broad_sector=Energy computed_roce=-92.37 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2024-03 broad_sector=Energy computed_roce=-83.49 source_roce=13.2 category=formula discrepancy
+company_id=POWERGRID year=2024-03 broad_sector=Energy computed_roce=-83.49 source_roce=13.2 category=formula discrepancy
+company_id=RECLTD year=2013-03 broad_sector=Financials computed_roce=-538.91 source_roce=10.0 category=formula discrepancy
+company_id=RECLTD year=2014-03 broad_sector=Financials computed_roce=-526.35 source_roce=10.0 category=formula discrepancy
+company_id=RECLTD year=2015-03 broad_sector=Financials computed_roce=-524.66 source_roce=10.0 category=formula discrepancy
+company_id=RECLTD year=2016-03 broad_sector=Financials computed_roce=-507.62 source_roce=10.0 category=formula discrepancy
+company_id=RECLTD year=2017-03 broad_sector=Financials computed_roce=-431.32 source_roce=10.0 category=formula discrepancy
+company_id=RECLTD year=2018-03 broad_sector=Financials computed_roce=-567.84 source_roce=10.0 category=formula discrepancy
+company_id=RECLTD year=2019-03 broad_sector=Financials computed_roce=-638.26 source_roce=10.0 category=formula discrepancy
+company_id=RECLTD year=2020-03 broad_sector=Financials computed_roce=-735.2 source_roce=10.0 category=formula discrepancy
+company_id=RECLTD year=2021-03 broad_sector=Financials computed_roce=-679.52 source_roce=10.0 category=formula discrepancy
+company_id=RECLTD year=2022-03 broad_sector=Financials computed_roce=-581.71 source_roce=10.0 category=formula discrepancy
+company_id=RECLTD year=2023-03 broad_sector=Financials computed_roce=-590.19 source_roce=10.0 category=formula discrepancy
+company_id=RECLTD year=2024-03 broad_sector=Financials computed_roce=-573.25 source_roce=10.0 category=formula discrepancy
+company_id=RELIANCE year=2013-03 broad_sector=Energy computed_roce=-38.32 source_roce=9.61 category=formula discrepancy
+company_id=RELIANCE year=2014-03 broad_sector=Energy computed_roce=-49.47 source_roce=9.61 category=formula discrepancy
+company_id=RELIANCE year=2015-03 broad_sector=Energy computed_roce=-56.86 source_roce=9.61 category=formula discrepancy
+company_id=RELIANCE year=2016-03 broad_sector=Energy computed_roce=-62.9 source_roce=9.61 category=formula discrepancy
+company_id=RELIANCE year=2017-03 broad_sector=Energy computed_roce=-62.16 source_roce=9.61 category=formula discrepancy
+company_id=RELIANCE year=2018-03 broad_sector=Energy computed_roce=-56.58 source_roce=9.61 category=formula discrepancy
+company_id=RELIANCE year=2019-03 broad_sector=Energy computed_roce=-54.76 source_roce=9.61 category=formula discrepancy
+company_id=RELIANCE year=2020-03 broad_sector=Energy computed_roce=-56.4 source_roce=9.61 category=formula discrepancy
+company_id=RELIANCE year=2021-03 broad_sector=Energy computed_roce=-27.27 source_roce=9.61 category=formula discrepancy
+company_id=RELIANCE year=2022-03 broad_sector=Energy computed_roce=-26.02 source_roce=9.61 category=formula discrepancy
+company_id=RELIANCE year=2023-03 broad_sector=Energy computed_roce=-40.91 source_roce=9.61 category=formula discrepancy
+company_id=RELIANCE year=2024-03 broad_sector=Energy computed_roce=-35.12 source_roce=9.61 category=formula discrepancy
+company_id=SBILIFE year=2015-03 broad_sector=Financials computed_roce=19.41 source_roce=13.2 category=formula discrepancy
+company_id=SBILIFE year=2016-03 broad_sector=Financials computed_roce=19.29 source_roce=13.2 category=formula discrepancy
+company_id=SBILIFE year=2017-03 broad_sector=Financials computed_roce=19.07 source_roce=13.2 category=formula discrepancy
+company_id=SBILIFE year=2018-03 broad_sector=Financials computed_roce=20.22 source_roce=13.2 category=formula discrepancy
+company_id=SBILIFE year=2019-03 broad_sector=Financials computed_roce=19.22 source_roce=13.2 category=formula discrepancy
+company_id=SBILIFE year=2022-03 broad_sector=Financials computed_roce=6.24 source_roce=13.2 category=formula discrepancy
+company_id=SBILIFE year=2023-03 broad_sector=Financials computed_roce=0.93 source_roce=13.2 category=formula discrepancy
+company_id=SBILIFE year=2024-03 broad_sector=Financials computed_roce=1.64 source_roce=13.2 category=formula discrepancy
+company_id=SBIN year=2013-03 broad_sector=Financials computed_roce=-324.92 source_roce=6.16 category=formula discrepancy
+company_id=SBIN year=2014-03 broad_sector=Financials computed_roce=-752.52 source_roce=6.16 category=formula discrepancy
+company_id=SBIN year=2015-03 broad_sector=Financials computed_roce=-1383.87 source_roce=6.16 category=formula discrepancy
+company_id=SBIN year=2016-03 broad_sector=Financials computed_roce=-1438.68 source_roce=6.16 category=formula discrepancy
+company_id=SBIN year=2017-03 broad_sector=Financials computed_roce=-2207.0 source_roce=6.16 category=formula discrepancy
+company_id=SBIN year=2018-03 broad_sector=Financials computed_roce=-2792.17 source_roce=6.16 category=formula discrepancy
+company_id=SBIN year=2019-03 broad_sector=Financials computed_roce=-1963.64 source_roce=6.16 category=formula discrepancy
+company_id=SBIN year=2020-03 broad_sector=Financials computed_roce=-1752.62 source_roce=6.16 category=formula discrepancy
+company_id=SBIN year=2021-03 broad_sector=Financials computed_roce=-1905.55 source_roce=6.16 category=formula discrepancy
+company_id=SBIN year=2022-03 broad_sector=Financials computed_roce=-1722.3 source_roce=6.16 category=formula discrepancy
+company_id=SBIN year=2023-03 broad_sector=Financials computed_roce=-1175.3 source_roce=6.16 category=formula discrepancy
+company_id=SBIN year=2024-03 broad_sector=Financials computed_roce=-1566.56 source_roce=6.16 category=formula discrepancy
+company_id=SHREECEM year=2013-06 broad_sector=Materials computed_roce=6.38 source_roce=14.8 category=formula discrepancy
+company_id=SHREECEM year=2014-06 broad_sector=Materials computed_roce=3.61 source_roce=14.8 category=formula discrepancy
+company_id=SHREECEM year=2015-06 broad_sector=Materials computed_roce=6.89 source_roce=14.8 category=formula discrepancy
+company_id=SHREECEM year=2016-03 broad_sector=Materials computed_roce=6.85 source_roce=14.8 category=formula discrepancy
+company_id=SHREECEM year=2018-03 broad_sector=Materials computed_roce=-9.49 source_roce=14.8 category=formula discrepancy
+company_id=SHREECEM year=2019-03 broad_sector=Materials computed_roce=-0.05 source_roce=14.8 category=formula discrepancy
+company_id=SHREECEM year=2020-03 broad_sector=Materials computed_roce=4.17 source_roce=14.8 category=formula discrepancy
+company_id=SHREECEM year=2022-03 broad_sector=Materials computed_roce=8.5 source_roce=14.8 category=formula discrepancy
+company_id=SHREECEM year=2023-03 broad_sector=Materials computed_roce=1.16 source_roce=14.8 category=formula discrepancy
+company_id=SHRIRAMFIN year=2013-03 broad_sector=Financials computed_roce=-423.95 source_roce=11.3 category=formula discrepancy
+company_id=SHRIRAMFIN year=2014-03 broad_sector=Financials computed_roce=-428.78 source_roce=11.3 category=formula discrepancy
+company_id=SHRIRAMFIN year=2015-03 broad_sector=Financials computed_roce=-483.45 source_roce=11.3 category=formula discrepancy
+company_id=SHRIRAMFIN year=2016-03 broad_sector=Financials computed_roce=-469.61 source_roce=11.3 category=formula discrepancy
+company_id=SHRIRAMFIN year=2017-03 broad_sector=Financials computed_roce=-449.62 source_roce=11.3 category=formula discrepancy
+company_id=SHRIRAMFIN year=2018-03 broad_sector=Financials computed_roce=-570.6 source_roce=11.3 category=formula discrepancy
+company_id=SHRIRAMFIN year=2019-03 broad_sector=Financials computed_roce=-525.51 source_roce=11.3 category=formula discrepancy
+company_id=SHRIRAMFIN year=2020-03 broad_sector=Financials computed_roce=-498.66 source_roce=11.3 category=formula discrepancy
+company_id=SHRIRAMFIN year=2021-03 broad_sector=Financials computed_roce=-471.97 source_roce=11.3 category=formula discrepancy
+company_id=SHRIRAMFIN year=2022-03 broad_sector=Financials computed_roce=-423.87 source_roce=11.3 category=formula discrepancy
+company_id=SHRIRAMFIN year=2023-03 broad_sector=Financials computed_roce=-352.28 source_roce=11.3 category=formula discrepancy
+company_id=SHRIRAMFIN year=2024-03 broad_sector=Financials computed_roce=-373.42 source_roce=11.3 category=formula discrepancy
+company_id=SIEMENS year=2014-09 broad_sector=Industrials computed_roce=2.58 source_roce=25.6 category=formula discrepancy
+company_id=SIEMENS year=2015-09 broad_sector=Industrials computed_roce=18.22 source_roce=25.6 category=formula discrepancy
+company_id=SIEMENS year=2016-09 broad_sector=Industrials computed_roce=14.17 source_roce=25.6 category=formula discrepancy
+company_id=SIEMENS year=2017-09 broad_sector=Industrials computed_roce=13.39 source_roce=25.6 category=formula discrepancy
+company_id=SIEMENS year=2018-09 broad_sector=Industrials computed_roce=15.62 source_roce=25.6 category=formula discrepancy
+company_id=SIEMENS year=2019-09 broad_sector=Industrials computed_roce=16.11 source_roce=25.6 category=formula discrepancy
+company_id=SIEMENS year=2020-09 broad_sector=Industrials computed_roce=10.29 source_roce=25.6 category=formula discrepancy
+company_id=SIEMENS year=2021-09 broad_sector=Industrials computed_roce=13.6 source_roce=25.6 category=formula discrepancy
+company_id=SIEMENS year=2022-09 broad_sector=Industrials computed_roce=14.07 source_roce=25.6 category=formula discrepancy
+company_id=SIEMENS year=2023-09 broad_sector=Industrials computed_roce=17.24 source_roce=25.6 category=formula discrepancy
+company_id=SIEMENS year=2024-09 broad_sector=Industrials computed_roce=18.01 source_roce=25.6 category=formula discrepancy
+company_id=SUNPHARMA year=2013-03 broad_sector=Healthcare computed_roce=29.52 source_roce=17.3 category=formula discrepancy
+company_id=SUNPHARMA year=2014-03 broad_sector=Healthcare computed_roce=23.46 source_roce=17.3 category=formula discrepancy
+company_id=SUNPHARMA year=2015-03 broad_sector=Healthcare computed_roce=-4.11 source_roce=17.3 category=formula discrepancy
+company_id=SUNPHARMA year=2016-03 broad_sector=Healthcare computed_roce=-0.95 source_roce=17.3 category=formula discrepancy
+company_id=SUNPHARMA year=2017-03 broad_sector=Healthcare computed_roce=0.71 source_roce=17.3 category=formula discrepancy
+company_id=SUNPHARMA year=2018-03 broad_sector=Healthcare computed_roce=-11.94 source_roce=17.3 category=formula discrepancy
+company_id=SUNPHARMA year=2019-03 broad_sector=Healthcare computed_roce=-9.58 source_roce=17.3 category=formula discrepancy
+company_id=SUNPHARMA year=2020-03 broad_sector=Healthcare computed_roce=-2.81 source_roce=17.3 category=formula discrepancy
+company_id=SUNPHARMA year=2021-03 broad_sector=Healthcare computed_roce=9.48 source_roce=17.3 category=formula discrepancy
+company_id=SUNPHARMA year=2023-03 broad_sector=Healthcare computed_roce=8.14 source_roce=17.3 category=formula discrepancy
+company_id=SUNPHARMA year=2024-03 broad_sector=Healthcare computed_opm=26.84 source_opm=28.0 category=formula discrepancy
+company_id=TATACONSUM year=2013-03 broad_sector=Consumer Staples computed_roce=-12.59 source_roce=10.6 category=formula discrepancy
+company_id=TATACONSUM year=2014-03 broad_sector=Consumer Staples computed_roce=-11.48 source_roce=10.6 category=formula discrepancy
+company_id=TATACONSUM year=2015-03 broad_sector=Consumer Staples computed_roce=-9.46 source_roce=10.6 category=formula discrepancy
+company_id=TATACONSUM year=2016-03 broad_sector=Consumer Staples computed_roce=-15.52 source_roce=10.6 category=formula discrepancy
+company_id=TATACONSUM year=2017-03 broad_sector=Consumer Staples computed_roce=0.06 source_roce=10.6 category=formula discrepancy
+company_id=TATACONSUM year=2018-03 broad_sector=Consumer Staples computed_roce=-3.2 source_roce=10.6 category=formula discrepancy
+company_id=TATACONSUM year=2019-03 broad_sector=Consumer Staples computed_roce=-4.76 source_roce=10.6 category=formula discrepancy
+company_id=TATACONSUM year=2020-03 broad_sector=Consumer Staples computed_roce=-2.09 source_roce=10.6 category=formula discrepancy
+company_id=TATACONSUM year=2021-03 broad_sector=Consumer Staples computed_roce=-0.61 source_roce=10.6 category=formula discrepancy
+company_id=TATACONSUM year=2022-03 broad_sector=Consumer Staples computed_roce=1.99 source_roce=10.6 category=formula discrepancy
+company_id=TATACONSUM year=2023-03 broad_sector=Consumer Staples computed_roce=1.54 source_roce=10.6 category=formula discrepancy
+company_id=TATACONSUM year=2024-03 broad_sector=Consumer Staples computed_roce=-7.26 source_roce=10.6 category=formula discrepancy
+company_id=TATAMOTORS year=2013-03 broad_sector=Consumer Discretionary computed_roce=-64.37 source_roce=20.1 category=formula discrepancy
+company_id=TATAMOTORS year=2014-03 broad_sector=Consumer Discretionary computed_roce=-33.63 source_roce=20.1 category=formula discrepancy
+company_id=TATAMOTORS year=2015-03 broad_sector=Consumer Discretionary computed_roce=-49.35 source_roce=20.1 category=formula discrepancy
+company_id=TATAMOTORS year=2016-03 broad_sector=Consumer Discretionary computed_roce=-32.37 source_roce=20.1 category=formula discrepancy
+company_id=TATAMOTORS year=2017-03 broad_sector=Consumer Discretionary computed_roce=-64.52 source_roce=20.1 category=formula discrepancy
+company_id=TATAMOTORS year=2018-03 broad_sector=Consumer Discretionary computed_roce=-49.15 source_roce=20.1 category=formula discrepancy
+company_id=TATAMOTORS year=2019-03 broad_sector=Consumer Discretionary computed_roce=-97.3 source_roce=20.1 category=formula discrepancy
+company_id=TATAMOTORS year=2020-03 broad_sector=Consumer Discretionary computed_roce=-126.39 source_roce=20.1 category=formula discrepancy
+company_id=TATAMOTORS year=2021-03 broad_sector=Consumer Discretionary computed_roce=-139.41 source_roce=20.1 category=formula discrepancy
+company_id=TATAMOTORS year=2022-03 broad_sector=Consumer Discretionary computed_roce=-175.41 source_roce=20.1 category=formula discrepancy
+company_id=TATAMOTORS year=2023-03 broad_sector=Consumer Discretionary computed_roce=-145.76 source_roce=20.1 category=formula discrepancy
+company_id=TATAMOTORS year=2024-03 broad_sector=Consumer Discretionary computed_roce=-42.54 source_roce=20.1 category=formula discrepancy
+company_id=TATAPOWER year=2013-03 broad_sector=Energy computed_roce=-224.42 source_roce=11.1 category=formula discrepancy
+company_id=TATAPOWER year=2014-03 broad_sector=Energy computed_roce=-219.79 source_roce=11.1 category=formula discrepancy
+company_id=TATAPOWER year=2015-03 broad_sector=Energy computed_roce=-208.02 source_roce=11.1 category=formula discrepancy
+company_id=TATAPOWER year=2016-03 broad_sector=Energy computed_roce=-276.65 source_roce=11.1 category=formula discrepancy
+company_id=TATAPOWER year=2017-03 broad_sector=Energy computed_roce=-285.71 source_roce=11.1 category=formula discrepancy
+company_id=TATAPOWER year=2018-03 broad_sector=Energy computed_roce=-246.97 source_roce=11.1 category=formula discrepancy
+company_id=TATAPOWER year=2019-03 broad_sector=Energy computed_roce=-219.52 source_roce=11.1 category=formula discrepancy
+company_id=TATAPOWER year=2020-03 broad_sector=Energy computed_roce=-203.29 source_roce=11.1 category=formula discrepancy
+company_id=TATAPOWER year=2021-03 broad_sector=Energy computed_roce=-158.72 source_roce=11.1 category=formula discrepancy
+company_id=TATAPOWER year=2022-03 broad_sector=Energy computed_roce=-172.76 source_roce=11.1 category=formula discrepancy
+company_id=TATAPOWER year=2023-03 broad_sector=Energy computed_roce=-140.24 source_roce=11.1 category=formula discrepancy
+company_id=TATAPOWER year=2024-03 broad_sector=Energy computed_roce=-118.85 source_roce=11.1 category=formula discrepancy
+company_id=TATASTEEL year=2013-03 broad_sector=Materials computed_roce=-162.44 source_roce=7.02 category=formula discrepancy
+company_id=TATASTEEL year=2014-03 broad_sector=Materials computed_roce=-141.13 source_roce=7.02 category=formula discrepancy
+company_id=TATASTEEL year=2015-03 broad_sector=Materials computed_roce=-207.26 source_roce=7.02 category=formula discrepancy
+company_id=TATASTEEL year=2016-03 broad_sector=Materials computed_roce=-168.47 source_roce=7.02 category=formula discrepancy
+company_id=TATASTEEL year=2017-03 broad_sector=Materials computed_roce=-160.65 source_roce=7.02 category=formula discrepancy
+company_id=TATASTEEL year=2018-03 broad_sector=Materials computed_roce=-106.16 source_roce=7.02 category=formula discrepancy
+company_id=TATASTEEL year=2019-03 broad_sector=Materials computed_roce=-93.75 source_roce=7.02 category=formula discrepancy
+company_id=TATASTEEL year=2020-03 broad_sector=Materials computed_roce=-120.54 source_roce=7.02 category=formula discrepancy
+company_id=TATASTEEL year=2021-03 broad_sector=Materials computed_roce=-69.48 source_roce=7.02 category=formula discrepancy
+company_id=TATASTEEL year=2022-03 broad_sector=Materials computed_roce=-9.77 source_roce=7.02 category=formula discrepancy
+company_id=TATASTEEL year=2023-03 broad_sector=Materials computed_roce=-46.78 source_roce=7.02 category=formula discrepancy
+company_id=TATASTEEL year=2024-03 broad_sector=Materials computed_roce=-63.61 source_roce=7.02 category=formula discrepancy
+company_id=TCS year=2013-03 broad_sector=Information Technology computed_roce=44.69 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2013-03 broad_sector=Information Technology computed_roce=44.69 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2014-03 broad_sector=Information Technology computed_roce=49.18 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2014-03 broad_sector=Information Technology computed_roce=49.18 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2015-03 broad_sector=Information Technology computed_roce=46.01 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2015-03 broad_sector=Information Technology computed_roce=46.01 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2016-03 broad_sector=Information Technology computed_roce=41.71 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2016-03 broad_sector=Information Technology computed_roce=41.71 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2017-03 broad_sector=Information Technology computed_roce=36.31 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2017-03 broad_sector=Information Technology computed_roce=36.31 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2018-03 broad_sector=Information Technology computed_roce=37.03 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2018-03 broad_sector=Information Technology computed_roce=37.03 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2019-03 broad_sector=Information Technology computed_roce=43.11 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2019-03 broad_sector=Information Technology computed_roce=43.11 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2020-03 broad_sector=Information Technology computed_roce=38.71 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2020-03 broad_sector=Information Technology computed_roce=38.71 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2021-03 broad_sector=Information Technology computed_roce=42.82 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2021-03 broad_sector=Information Technology computed_roce=42.82 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2022-03 broad_sector=Information Technology computed_roce=48.26 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2022-03 broad_sector=Information Technology computed_roce=48.26 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2023-03 broad_sector=Information Technology computed_roce=54.03 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2023-03 broad_sector=Information Technology computed_roce=54.03 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2024-03 broad_sector=Information Technology computed_roce=58.94 source_roce=64.3 category=formula discrepancy
+company_id=TCS year=2024-03 broad_sector=Information Technology computed_roce=58.94 source_roce=64.3 category=formula discrepancy
+company_id=TECHM year=2013-03 broad_sector=Information Technology computed_roce=0.75 source_roce=11.9 category=formula discrepancy
+company_id=TECHM year=2013-03 broad_sector=Information Technology computed_roce=0.75 source_roce=11.9 category=formula discrepancy
+company_id=TECHM year=2014-03 broad_sector=Information Technology computed_roce=39.25 source_roce=11.9 category=formula discrepancy
+company_id=TECHM year=2014-03 broad_sector=Information Technology computed_roce=39.25 source_roce=11.9 category=formula discrepancy
+company_id=TECHM year=2015-03 broad_sector=Information Technology computed_roce=27.16 source_roce=11.9 category=formula discrepancy
+company_id=TECHM year=2015-03 broad_sector=Information Technology computed_roce=27.16 source_roce=11.9 category=formula discrepancy
+company_id=TECHM year=2016-03 broad_sector=Information Technology computed_roce=20.64 source_roce=11.9 category=formula discrepancy
+company_id=TECHM year=2016-03 broad_sector=Information Technology computed_roce=20.64 source_roce=11.9 category=formula discrepancy
+company_id=TECHM year=2019-03 broad_sector=Information Technology computed_roce=19.96 source_roce=11.9 category=formula discrepancy
+company_id=TECHM year=2019-03 broad_sector=Information Technology computed_roce=19.96 source_roce=11.9 category=formula discrepancy
+company_id=TECHM year=2022-03 broad_sector=Information Technology computed_roce=19.02 source_roce=11.9 category=formula discrepancy
+company_id=TECHM year=2022-03 broad_sector=Information Technology computed_roce=19.02 source_roce=11.9 category=formula discrepancy
+company_id=TITAN year=2013-03 broad_sector=Consumer Discretionary computed_roce=50.05 source_roce=22.7 category=formula discrepancy
+company_id=TITAN year=2014-03 broad_sector=Consumer Discretionary computed_roce=9.26 source_roce=22.7 category=formula discrepancy
+company_id=TITAN year=2015-03 broad_sector=Consumer Discretionary computed_roce=33.18 source_roce=22.7 category=formula discrepancy
+company_id=TITAN year=2017-03 broad_sector=Consumer Discretionary computed_roce=-16.53 source_roce=22.7 category=formula discrepancy
+company_id=TITAN year=2018-03 broad_sector=Consumer Discretionary computed_roce=-0.9 source_roce=22.7 category=formula discrepancy
+company_id=TITAN year=2019-03 broad_sector=Consumer Discretionary computed_roce=-6.4 source_roce=22.7 category=formula discrepancy
+company_id=TITAN year=2020-03 broad_sector=Consumer Discretionary computed_roce=-15.66 source_roce=22.7 category=formula discrepancy
+company_id=TITAN year=2021-03 broad_sector=Consumer Discretionary computed_roce=-49.71 source_roce=22.7 category=formula discrepancy
+company_id=TITAN year=2022-03 broad_sector=Consumer Discretionary computed_roce=-40.52 source_roce=22.7 category=formula discrepancy
+company_id=TITAN year=2023-03 broad_sector=Consumer Discretionary computed_roce=-36.49 source_roce=22.7 category=formula discrepancy
+company_id=TITAN year=2024-03 broad_sector=Consumer Discretionary computed_roce=-102.6 source_roce=22.7 category=formula discrepancy
+company_id=TORNTPHARM year=2013-03 broad_sector=Healthcare computed_roce=0.27 source_roce=23.2 category=formula discrepancy
+company_id=TORNTPHARM year=2014-03 broad_sector=Healthcare computed_roce=-8.89 source_roce=23.2 category=formula discrepancy
+company_id=TORNTPHARM year=2015-03 broad_sector=Healthcare computed_roce=-64.13 source_roce=23.2 category=formula discrepancy
+company_id=TORNTPHARM year=2016-03 broad_sector=Healthcare computed_roce=10.21 source_roce=23.2 category=formula discrepancy
+company_id=TORNTPHARM year=2017-03 broad_sector=Healthcare computed_roce=-24.32 source_roce=23.2 category=formula discrepancy
+company_id=TORNTPHARM year=2018-03 broad_sector=Healthcare computed_roce=-101.61 source_roce=23.2 category=formula discrepancy
+company_id=TORNTPHARM year=2019-03 broad_sector=Healthcare computed_roce=-75.89 source_roce=23.2 category=formula discrepancy
+company_id=TORNTPHARM year=2020-03 broad_sector=Healthcare computed_roce=-65.97 source_roce=23.2 category=formula discrepancy
+company_id=TORNTPHARM year=2021-03 broad_sector=Healthcare computed_roce=-36.85 source_roce=23.2 category=formula discrepancy
+company_id=TORNTPHARM year=2022-03 broad_sector=Healthcare computed_roce=-24.78 source_roce=23.2 category=formula discrepancy
+company_id=TORNTPHARM year=2023-03 broad_sector=Healthcare computed_roce=-36.6 source_roce=23.2 category=formula discrepancy
+company_id=TORNTPHARM year=2024-03 broad_sector=Healthcare computed_roce=-8.53 source_roce=23.2 category=formula discrepancy
+company_id=TRENT year=2013-03 broad_sector=Consumer Discretionary computed_roce=-26.49 source_roce=23.8 category=formula discrepancy
+company_id=TRENT year=2014-03 broad_sector=Consumer Discretionary computed_roce=-32.73 source_roce=23.8 category=formula discrepancy
+company_id=TRENT year=2015-03 broad_sector=Consumer Discretionary computed_roce=-11.96 source_roce=23.8 category=formula discrepancy
+company_id=TRENT year=2016-03 broad_sector=Consumer Discretionary computed_roce=-20.63 source_roce=23.8 category=formula discrepancy
+company_id=TRENT year=2017-03 broad_sector=Consumer Discretionary computed_roce=-16.25 source_roce=23.8 category=formula discrepancy
+company_id=TRENT year=2018-03 broad_sector=Consumer Discretionary computed_roce=-11.15 source_roce=23.8 category=formula discrepancy
+company_id=TRENT year=2019-03 broad_sector=Consumer Discretionary computed_roce=-14.9 source_roce=23.8 category=formula discrepancy
+company_id=TRENT year=2020-03 broad_sector=Consumer Discretionary computed_roce=8.69 source_roce=23.8 category=formula discrepancy
+company_id=TRENT year=2021-03 broad_sector=Consumer Discretionary computed_roce=-7.24 source_roce=23.8 category=formula discrepancy
+company_id=TRENT year=2022-03 broad_sector=Consumer Discretionary computed_roce=-154.39 source_roce=23.8 category=formula discrepancy
+company_id=TRENT year=2023-03 broad_sector=Consumer Discretionary computed_roce=-108.41 source_roce=23.8 category=formula discrepancy
+company_id=TRENT year=2024-03 broad_sector=Consumer Discretionary computed_roce=4.6 source_roce=23.8 category=formula discrepancy
